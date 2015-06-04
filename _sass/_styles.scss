@@ -261,8 +261,8 @@ a.list-group-item { // we need to match bootstrap's specicivity to override styl
 
 .media-left {
   display: block;
-  padding: 0;
-  text-align: center;
+  padding: 0 1em 0 0;
+  float: left;
 
   img {
     display: inline;
@@ -270,28 +270,21 @@ a.list-group-item { // we need to match bootstrap's specicivity to override styl
     width: auto;
     margin-bottom: 1em;
   }
+  
+  a {
+    max-width: 114px; // 114 because the smalled picture is 114px wide.
+    display: inline-block;
+    float: left;
+  }
 
   @media (min-width: $screen-xs-min) {
-    padding-right: 1em;
     display: table-cell;
-
-    a {
-      width: 150px;
-      display: inline-block;
-    }
 
     img {
       display: block;
       margin: 0;
       max-height: none;
       max-width: 100%;
-    }
-  }
-
-  @media (min-width: $screen-smm-min) {
-    
-    a {
-      width: 114px; // 114 because the smalled picture is 114px wide.
     }
   }
 
