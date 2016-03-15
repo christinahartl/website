@@ -63,7 +63,7 @@ Mittlerweile bin ich verheiratet und habe 2 Kinder.
 
  <hr>
 
-##Kosten 
+## Kosten 
 
 Ein Erstgespräch kostet 30 Euro für die Dauer von 30 bis 45 min.   
 Jedes weitere Gespräch variiert je nach Angebot zwischen 60 und 80 Euro für die Dauer von 55min. 
@@ -81,7 +81,7 @@ Sollten Sie weiter Fragen haben, rufen Sie mich unverbindlich an:
 
  <hr>
 
-##Kooperationen
+## Kooperationen
 
 Mag.Barbara Amon – Klinische und Gesundheitspsychologin, Arbeitspsychologin: „Ich schätze Christina Hartl-Hörker sehr, besonders weil sie sowohl fachlich bestens ausgebildet ist, als auch menschlich sehr einfühlsam und behutsam mit ihren Klienten umgeht und stets ein Lächeln auf den Lippen trägt. Sie besitzt die Fähigkeit, aus ihrem riesigen Methodenkoffer für jeden einzelnen Klienten das richtige und besten auszuwählen, sodass sich jeder bei ihr gut aufgehoben fühlt. Sie ist eine Kollegin, die ich gerne und mit bestem Gewissen weiter empfehle!“
 http://www.praxis-wendepunkt.at/
