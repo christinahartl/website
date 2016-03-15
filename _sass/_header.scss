@@ -1,24 +1,45 @@
-.header {
-  background: $header-bg;
-  min-height: 200px;
+.navigation {
+  overflow: hidden;
+  position: fixed;
+}
 
-  a {
-    color: $white;
-    text-transform: uppercase;
+.nav {
+  text-align: right;
 
-    &:hover {
-      color: $link-color;
+  & > li {
+
+    & > a {
+      padding: 5px $grid-gutter-width / 2;
+      color: lighten($body-color, 30%);
+
+      &:hover,
+      &:focus {
+        background: none;
+      }
+    }
+
+    &.active {
+
+      > a,
+      > a:focus,
+      > a:hover {
+        background: none;
+        color: $body-color;
+      }
     }
   }
+}
 
-  .nav-pills {
-    margin-top: 20px;
-  }
+.header {
+  margin-bottom: 2em;
+  background: $blue;
+  padding: 2em 0;
+}
 
-  .nav-pills > li.active > a,
-  .nav-pills > li.active > a:hover,
-  .nav-pills > li.active > a:focus {
-    background: $white;
-    color: $link-color;
+.logo {
+  text-align: right;
+
+  img {
+    background: $brand-primary;
   }
 }

@@ -1,3 +1,40 @@
-$header-bg: #028495;
-$brand-primary: $header-bg;
-$white: #ffffff;
+//$header-bg: #028495;
+$brand-primary:           #2689b0;
+$brand-primary:           #4da5c8;
+$brand-primary: #7bb85f;
+//$brand-primary: #888;
+
+$white:                   #ffffff;
+
+
+$highlight1:  #FFA14F;
+
+
+$highlight1:    #f47a35;
+$highlight1: $brand-primary;
+$body-color:    #53555b;
+
+$grey1:         #d2d2d2;
+
+
+
+
+$font-size-base:          16px !default;
+
+$font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family-serif:       "Libre Baskerville", Georgia, serif;
+$font-family-base:        $font-family-serif;
+
+$headings-color:          $highlight1;
+
+$blockquote-font-size:    ($font-size-base * 1.5);
+
+$grey-body: #5c5c5c;
+$blue: #49a5c9;
+$orange: #ff834c;
+$green: #7bb85f;
+$brand-primary: $orange;
+
+
+$body-color: $grey-body;
+$headings-color: $grey-body;

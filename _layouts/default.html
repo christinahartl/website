@@ -2,10 +2,43 @@
 <html>
   {% include head.html %}
   <body>
-    {% include header.html %}
-    <div class="container">
-      {{ content }}
+    <header class="header" id="home">
+      <div class="container-fluid row">
+        {% include header.html %}
+      </div>
+    </header>
+    <div class="container-fluid row">
+      <div class="content row">
+        <div class="col-xs-3">
+          {% include sidebar.html %}
+        </div>
+        <div class="col-xs-9">
+          {{ content }}
+        </div>
+      </div>
     </div>
-    {% include footer.html %}
+    <footer class="footer">
+      <div class="container-fluid row">
+        {% include footer.md %}
+      </div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/javascripts/bootstrap.min.js"></script>
+    <script>
+      (function($) {
+        var winHeight = $(window).height();
+        $('body').scrollspy({
+          target: '#navigation',
+          offset: Math.floor(winHeight * 0.3)
+        });
+        $('.navigation').delegate('a', 'click', function() {
+          var targetId = $(this).attr('href').match(/\#.*$/).pop();
+          $('html').animate({
+            scrollTop: $(targetId).offset().top
+          });
+          return false;
+        });
+      })(jQuery);
+    </script>
   </body>
 </html>
