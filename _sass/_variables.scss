@@ -1,40 +1,61 @@
-//$header-bg: #028495;
-$brand-primary:           #2689b0;
-$brand-primary:           #4da5c8;
-$brand-primary: #7bb85f;
-//$brand-primary: #888;
+$page_max_width:          720px;
+$sidebar-width:           200px;
+$sidebar-padding:         20px;
+$sidebar-top-percent:     20%;
 
+
+$brand-primary:           #1dbaa7;
 $white:                   #ffffff;
+$highlight1:              #FFA14F;
+$highlight1:              #f47a35;
+$highlight1:              $brand-primary;
+$body-color:              #53555b;
+$grey1:                   #d2d2d2;
+
+$grey-body:               #5c5c5c;
+$blue:                    #49a5c9;
+$blue:                    #1dbaa7;
+
+$orange:                  #FF6321;
+$orange:                  #ff9226;
+$orange:                  #FF8D37;
+$brand-primary:           $orange;
+
+$screen-xxs-min:          360px;
+$screen-xs-min:           480px;
+$screen-ssm-min:          600px;
+$screen-sm-min:           768px;
+$screen-smm-min:          850px;
+$screen-md-min:           992px;
+$screen-lg-min:           1200px;
 
 
-$highlight1:  #FFA14F;
+$body-color: $grey-body;
+$headings-color: $grey-body;
 
 
-$highlight1:    #f47a35;
-$highlight1: $brand-primary;
-$body-color:    #53555b;
-
-$grey1:         #d2d2d2;
+$text-color:              #626262;
 
 
+$font-size-base:          16px;
+$blockquote-font-size:    ($font-size-base * 1.5);
 
+$font-size-h1:            floor(($font-size-base * 2));
+$font-size-h2:            floor(($font-size-base * 1.5));
+$font-size-h3:            ceil(($font-size-base * 1.25));
+$font-size-h4:            ceil(($font-size-base * 1.25));
+$font-size-h5:            $font-size-base;
+$font-size-h6:            $font-size-base;
 
-$font-size-base:          16px !default;
-
-$font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-serif:       "Libre Baskerville", Georgia, serif;
 $font-family-base:        $font-family-serif;
 
 $headings-color:          $highlight1;
 
-$blockquote-font-size:    ($font-size-base * 1.5);
 
-$grey-body: #5c5c5c;
-$blue: #49a5c9;
-$orange: #ff834c;
-$green: #7bb85f;
-$brand-primary: $orange;
+$sidebar-width: 200px;
+$header-margin-bottom: 32px;
 
+$header-height: 8.2em;
 
-$body-color: $grey-body;
-$headings-color: $grey-body;

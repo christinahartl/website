@@ -2,43 +2,26 @@
 <html>
   {% include head.html %}
   <body>
-    <header class="header" id="home">
-      <div class="container-fluid row">
-        {% include header.html %}
-      </div>
-    </header>
-    <div class="container-fluid row">
-      <div class="content row">
-        <div class="col-xs-3">
-          {% include sidebar.html %}
+    <div class="page">
+      <header class="header" id="home">
+        <div class="container-fluid">
+          {% include header.html %}
         </div>
-        <div class="col-xs-9">
-          {{ content }}
-        </div>
+      </header>
+      {% include sidebar.html %}
+      <div class="content">
+        {{ content }}
       </div>
+
+      <footer class="footer">
+        <div class="container-fluid row">
+          {% include footer.md %}
+        </div>
+      </footer>
+      <div class="overlay"></div>
     </div>
-    <footer class="footer">
-      <div class="container-fluid row">
-        {% include footer.md %}
-      </div>
-    </footer>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/javascripts/bootstrap.min.js"></script>
-    <script>
-      (function($) {
-        var winHeight = $(window).height();
-        $('body').scrollspy({
-          target: '#navigation',
-          offset: Math.floor(winHeight * 0.3)
-        });
-        $('.navigation').delegate('a', 'click', function() {
-          var targetId = $(this).attr('href').match(/\#.*$/).pop();
-          $('html').animate({
-            scrollTop: $(targetId).offset().top
-          });
-          return false;
-        });
-      })(jQuery);
-    </script>
+    <script>window.noZensmooth = true;</script>
+    <script src="{{ site.baseurl }}/assets/js/zenscroll-min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/scripts.js"></script>
   </body>
 </html>

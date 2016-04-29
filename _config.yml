@@ -9,7 +9,7 @@
 title: Christina Hartl-Hörker
 email: christina.hartlhoerker@gmail.com
 description: Das ist mein Metatext.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/christina-hartl-hoerker" # the subpath of your site, e.g. /blog
 url: "http://christina-hartl-hoerker.at" # the base hostname & protocol for your site
 
 # Build settings

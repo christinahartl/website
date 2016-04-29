@@ -1,50 +1,82 @@
-body {
-  position: relative;
-}
-
 img {
   max-width: 100%;
   height: auto;
 }
 
 h1,
-.h1 {
-  line-height: 1.2em;
-  margin: 0;
-  color: $white;
-}
-
 h2,
-.h2 {
-  color: $blue;
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 15px;
 }
 
-h3,
-.h3 {
+h1 {
+  @include vendor-prefix('transition', all 0.3s ease 0s);
+  line-height: 1.2em;
+  margin: .2em 0 0 0;
+  color: $white;
+  font-size: 28px;
+
+  @media (min-width: $screen-ssm-min) {
+    margin-top: .8em;
+    font-size: 36px;
+
+    br {
+      display: none;
+    }
+  }
+
+  @media (min-width: $screen-sm-min) {
+    margin-top: .6em;
+    font-size: 40px;
+  }
+}
+
+h2 {
+  color: #777;
+  font-size: 42px;
+  margin-top: 2em;
+  margin-bottom: .4em;
+}
+
+h3 {
   font-size: 22px;
+  margin-top: 2em;
+
+  &::before {
+    content: "&";
+    font-style: italic;
+    margin-right: .3em;
+    color: #d9d9d9;
+  }
 }
 
 p {
   margin: 0 0 $line-height-computed;
+  line-height: 1.6em;
 }
 
 .title-prefix {
-  font-size: 18px;
+  font-size: $font-size-base;
   display: block;
   line-height: 1em;
   text-transform: lowercase;
   color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 5px;
 }
 
 blockquote {
   font-style: italic;
   font-size: 18px;
-  letter-spacing: 0.04em;
+  letter-spacing: .04em;
   border: none;
   color: $gray-light;
   padding-left: 0;
   padding-right: 0;
-  margin: 0 0 2em;
+  margin: 0 0 1em;
+  text-align: center;
 
   footer {
     color: $grey1;
@@ -54,7 +86,7 @@ blockquote {
 
     &:before,
     &:after {
-      content: "»";
+      content: "»"; // TODO
       font-style: normal;
       line-height: 28px;
       margin-right: 3px;
@@ -80,62 +112,25 @@ ul:not([class]) {
     &::before {
       content: "•";
       float: left;
-      font-weight: bold;
       margin-left: -0.8em;
-      color: $green;
+      color: $blue;
       font-size: 120%;
       margin-top: -0.1em;
     }
   }
 }
 
-.ampersand {
-  font-style: italic;
-  margin: 0 0.5em;
-}
-
-.portrait {
-  display: block;
-  margin: 0 auto;
-  border-radius: 3px;
-}
-
-.skills {
-  padding: 0;
-  margin: 0;
-
-  li {
-    list-style: none;
-    margin-bottom: 0.2em;
-    color: $gray;
-  }
-}
-
-.text-center {
-  text-align: center;
-}
-
-.text-right {
-  text-align: right;
-}
-
-.subtitle {
-  color: $gray-light;
-  margin-bottom: 30px;
-}
-
 hr {
   position: relative;
-  //border-color: lighten($brand-primary, 35%);
   border-color: lighten($gray, 55%);
   border-color: $grey1;
   margin: ($line-height-computed * 3) ($grid-gutter-width);
+  margin: 40px 20px;
 
   &::before {
     content: "&";
     font-style: italic;
     font-size: 24px;
-    //color: lighten($brand-primary, 10%);
     color: $grey1;
     background: $body-bg;
     position: absolute;
@@ -146,7 +141,184 @@ hr {
   }
 }
 
+sup {
+  margin-left: 0.1em;
+}
+
+.psychologist {
+  overflow: hidden;
+
+  @media (min-width: $screen-ssm-min) {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.christina {
+  text-align: center;
+
+}
+
 .signature {
-  margin-top: 4em;
-  max-width: 300px;
+  margin: .5em auto 1em auto;
+}
+
+/*
+
+.portrait {
+  display: block;
+  margin: 1em auto;
+
+  @media (min-width: $screen-ssm-min) {
+    float: left;
+    //margin-left: 2em;
+  }
+
+  @media (min-width: $screen-sm-min) {
+    margin-left: 0;
+  }
+}
+
+.signature {
+  margin: .5em auto 1em auto;
+  display: block;
+
+  @media (min-width: $screen-ssm-min) {
+    display: inline;
+    margin-top: 1em;
+  }
+}
+*/
+
+.ampersand {
+  font-style: italic;
+  margin: 0 .5em;
+}
+
+
+.skills {
+  @extend .list-group;
+  padding: 1em 0;
+  text-align: center;
+
+  @media (min-width: $screen-ssm-min) {
+    float: right;
+    margin: 0 0em 1em 0;
+    max-width: 47%;
+    text-align: left;
+    padding: 0 0 0 2em;
+  }
+
+  @media (min-width: $screen-sm-min) {
+    margin-right: 0;
+  }
+
+  > a {
+  }
+}
+
+a.list-group-item { // we need to match bootstrap's specicivity to override styles.
+  color: #666;
+  padding: 0;
+  margin-bottom: 1em;
+
+  @include vendor-prefix('transition', all 0.3s ease 0s);
+  border-color: transparent;
+
+  &:hover {
+    background: transparent;
+    text-decoration: none;
+    border-color: transparent;
+    color: darken(#666, 15%);
+  }
+
+  .list-group-item-heading {
+    @include vendor-prefix('transition', all 0.3s ease 0s);
+    color: $orange;
+    margin-bottom: 2px;
+
+    &:hover {
+      color: darken($orange, 12%);
+    }
+  }
+
+  .list-group-item-text {
+    font-size: 14px;
+  }
+}
+
+.br-ssm {
+  display: block;
+
+  @media (min-width: $screen-ssm-min) {
+    display: inline;
+  }
+}
+
+.media {
+  margin-top: $grid-gutter-width;
+}
+
+.media-left {
+  padding-right: 1em;
+
+  a {
+    width: 250px;
+    display: inline-block;
+  }
+}
+
+.media-heading {
+  margin-top: 1em;
+
+  &::before {
+    display: none;
+  }
+
+  a {
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+.media-subheading {
+  color: $text-color;
+  font-size: $font-size-base;
+  margin: 0 0 1.5em 0;
+}
+
+.work-type {
+  @extend .media;
+
+  > h3 {
+    @extend .media-heading;
+    margin-bottom: 1em;
+  }
+
+  > img {
+    width: 120px;
+    float: left;
+    margin-right: 1em;
+  }
+}
+
+.character-traits {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+
+  li {
+    font-size: 24px;
+    color: lighten($text-color, 10%);
+    line-height: 1.6em;
+  }
+
+  span {
+    font-weight: 500;
+    color: $blue;
+    font-size: 160%;
+    margin-right: 0.05em;
+  }
 }

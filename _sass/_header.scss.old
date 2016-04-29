@@ -1,0 +1,73 @@
+
+
+.nav {
+  //text-align: right;
+  margin-top: 10px;
+
+  & > li {
+
+    & > a {
+      padding: 5px $grid-gutter-width / 2;
+      color: lighten($body-color, 30%);
+
+      &:hover,
+      &:focus {
+        background: none;
+      }
+    }
+
+    &.active {
+
+      > a,
+      > a:focus,
+      > a:hover {
+        background: none;
+        color: $body-color;
+      }
+    }
+  }
+}
+
+.header {
+  margin-bottom: $header-margin-bottom;
+  background: $blue;
+  padding: 1.2em 0;
+}
+
+.logo {
+  text-align: right;
+
+  img {
+    background: $brand-primary;
+  }
+}
+
+.toggle-menu {
+  float: right;
+  cursor: pointer;
+  color: $orange;
+  font-size: 4rem;
+
+  @include menu($white, 32px, 2px, 7px);
+
+  @media (min-width: $screen-sm-min) {
+    display: none;
+  }
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.overlay {
+  content: "";
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+  opacity: 0;
+  @include vendor-prefix('transition', all 0.4s ease 0s);
+}

@@ -1,0 +1,23 @@
+{
+  "name": "hartl-hoerker.at",
+  "version": "1.0.0",
+  "description": "The personal website of Christina Hartl Horker",
+  "main": "build.js",
+  "scripts": {
+    "uncss": "jekyll build && node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christinahartl/website.git"
+  },
+  "author": "Martin Wittmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christinahartl/website/issues"
+  },
+  "homepage": "https://github.com/christinahartl/website#readme",
+  "dependencies": {
+    "glob": "^7.0.3",
+    "uncss": "^0.13.0"
+  }
+}

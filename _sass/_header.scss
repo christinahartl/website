@@ -1,20 +1,102 @@
-.navigation {
-  overflow: hidden;
+.header {
+  margin-bottom: $header-margin-bottom;
+  background: $blue;
+  padding: 1.2em 0;
+}
+
+.site-logo {
+  @include vendor-prefix('transition', all 0.4s ease 0s);
+  float: left;
+  font-size: 100px;
+  color: $white;
+  opacity: 0.5;
+  font-style: italic;
+  margin: 0 15px 0 -60px;
+  line-height: 1em;
+
+  &:hover,
+  &:active,
+  &:focus {
+    opacity: .7;
+    text-decoration: none;
+    color: $white;
+  }
+
+  &::before {
+    content: "&";
+  }
+
+  @media (min-width: $screen-xxs-min) {
+    margin-right: 30px;
+    font-size: 110px;
+  }
+
+  @media (min-width: $screen-ssm-min) {
+    font-size: 160px;
+  }
+
+  @media (min-width: $screen-sm-min) {
+    margin-left: 0;
+  }
+}
+
+.toggle-menu {
+  @include vendor-prefix('transition', all 0.2s ease 0s);
+  @include menu($white, 32px, 2px, 7px, 10px, rgba(29, 186, 167, 0.7));
+  float: right;
+  cursor: pointer;
+  font-size: 4rem;
   position: fixed;
+  right: 15px;
+  z-index: 1;
+
+  // We set margin top instead of top to be able to set the top value in js to
+  // the scrolltop, the same as with .navigation.
+  top: 0;
+  margin-top: 15px;
+
+
+  @media (min-width: $screen-sm-min) {
+    display: none;
+  }
+
+  &:hover {
+    text-decoration: none;
+    background: rgba(29, 186, 167, 1);
+  }
+}
+
+.overlay {
+  content: "";
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+  opacity: 0;
+  @include vendor-prefix('transition', all 0.4s ease 0s);
 }
 
 .nav {
-  text-align: right;
+  margin-top: 10px;
 
   & > li {
 
     & > a {
-      padding: 5px $grid-gutter-width / 2;
-      color: lighten($body-color, 30%);
+      padding: 5px 25px;
+      color: lighten($body-color, 20%);
+      @include vendor-prefix('transition', all 0.4s ease 0s);
+
+      @media (min-width: $screen-smm-min) {
+        padding-left: 0;
+      }
 
       &:hover,
       &:focus {
         background: none;
+        color: $orange;
       }
     }
 
@@ -24,22 +106,8 @@
       > a:focus,
       > a:hover {
         background: none;
-        color: $body-color;
+        color: $orange;
       }
     }
-  }
-}
-
-.header {
-  margin-bottom: 2em;
-  background: $blue;
-  padding: 2em 0;
-}
-
-.logo {
-  text-align: right;
-
-  img {
-    background: $brand-primary;
   }
 }

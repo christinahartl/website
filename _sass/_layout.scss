@@ -1,12 +1,108 @@
-.container-fluid {
-  max-width: 1000px;
-  margin: 0 auto;
+
+body,
+html {
+  overflow-x: hidden;
+  width: 100%;
+  //position: relative;
+
+  &.show-menu {
+    overflow: hidden;
+
+    .page {
+      @include vendor-prefix('transform', translateX(-1 * $sidebar-width));
+    }
+
+    .overlay {
+      opacity: 1;
+      z-index: 10;
+    }
+
+    @media (min-width: $screen-sm-min) {
+
+      .page {
+        transform: none;
+      }
+
+      .overlay {
+        display: none;
+      }
+    }
+  }
 }
 
-.footer {
-  background: $blue;
-  padding: 2em 0;
-  font-size: $font-size-small;
-  color: rgba(255, 255, 255, 0.7);
-  //font-family: $font-family-sans-serif;
+// A global page wrapper, used to move the whole page when showing the menu on mobile.
+.page {
+  @include vendor-prefix('transition', all 0.4s ease 0s);
+}
+
+.header {
+  height: $header-height;
+  // We need to define the height to be able to position the menu accordingly.
+  overflow: hidden; // To cut off the ampersand and not mess with the main content.
+}
+
+.content {
+  @extend .container-fluid;
+
+
+  @media (min-width: $screen-xs-min) {
+    padding-left: $grid-gutter-width;
+    padding-right: $grid-gutter-width;
+  }
+
+  @media (min-width: $screen-ssm-min) {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  @media (min-width: $screen-sm-min) {
+    margin-left: 180px;
+    padding: 0;
+  }
+
+  @media (min-width: $screen-smm-min) {
+    margin-left: auto;
+    padding-left: 180px;
+  }
+}
+
+.navigation {
+  width: $sidebar-width;
+  position: absolute;
+  right: -1 * $sidebar-width;
+  top: 0;
+  bottom: 0;
+  text-align: left;
+  background: $white;
+
+  @media (min-width: $screen-sm-min) {
+    $sidebar-width: 180px;
+    right: auto;
+    position: fixed;
+    width: $sidebar-width;
+    //margin-left: $sidebar-width * -1;
+    left: 0;
+
+    top: $sidebar-top-percent;
+    padding-right: $sidebar-padding;
+  }
+
+  @media (min-width: $screen-smm-min) {
+    text-align: right;
+    margin-left: -410px;
+    left: 50%;
+    bottom: auto;
+  }
+}
+
+.no-transition,
+.no-transition .page {
+  transition: none !important;
+}
+
+.container-fluid {
+
+  @media (min-width: $screen-smm-min) {
+    max-width: 820px;
+  }
 }

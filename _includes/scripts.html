@@ -1,0 +1,55 @@
+<script>
+  var scroll = function() {
+    this.navClick = function() {
+      var targetId = this.getAttribute('href').match(/\#.*$/).pop();
+      var target = document.querySelectorAll(targetId);
+      if (target) {
+        zenscroll.to(target[0]);
+      }
+    };
+
+    var links = document.querySelectorAll('.navigation a');
+    for (var i=0;i<links.length;i++) {
+      var link = links[i];
+      link.addEventListener('click', this.navClick);
+    }
+
+    this.scrollTop  = function(el) { 
+      return el ? el.scrollTop : (window.scrollY || document.documentElement.scrollTop);
+    };
+    this.getViewHeight  = function() { 
+      return window.innerHeight || document.documentElement.clientHeight;
+    };
+
+    this.getElementTop = function(el) {
+      return el.getBoundingClientRect().top + this.scrollTop() - document.documentElement.offsetTop;
+    };
+
+    this.getActiveHeadline = function() {
+      console.log(this);
+      var st = this.scrollTop();
+    };
+
+    this.updateLinkTopValues = function() {
+      for (var i=0;i<this.links.length;i++) {
+        this.links[i].top = this.getElementTop(this.links[i].el);
+      }
+    };
+
+    this.init = function(linkSelector) {
+      var links = document.querySelectorAll(linkSelector);
+
+      for (var i=0;i<links.length;i++) {
+        this.links.push({
+          el: links[i]
+        });
+      }
+      this.updateLinkTopValues();
+
+      var that = this;
+      window.addEventListener('resize', function() {
+        that.updateLinkTopValues();
+      });
+    };
+  };
+</script>

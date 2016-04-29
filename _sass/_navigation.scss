@@ -1,0 +1,30 @@
+.sidebar-logo {
+  @include vendor-prefix('transition', all 0.3s ease 0s);
+  display: block;
+  line-height: $header-height;
+  height: $header-height;
+  font-style: italic;
+  text-align: center;
+  color: $blue;
+  opacity: 0.2;
+  background: #f2f2f2;
+  overflow: hidden;
+
+  @media (min-width: $screen-sm-min) {
+    display: none;
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+    text-decoration: none;
+    color: $blue;
+  }
+
+  &:before {
+    content: "&";
+    font-size: 200px;
+    display: block;
+    @include vendor-prefix('transform', translateY(30px));
+  }
+}

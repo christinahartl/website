@@ -1,0 +1,109 @@
+.container-fluid {
+  max-width: $page-max-width;
+  margin: 0 auto;
+
+  @media (min-width: $screen-sm-min) {
+    margin-left: 20%;
+  }
+}
+
+.content-container {
+  background: $white;
+  position: relative;
+}
+
+.footer {
+  background: $blue;
+  padding: 2em 0;
+  font-size: $font-size-small;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+body,
+html {
+  overflow-x: hidden;
+  width: 100%;
+  position: relative;
+
+  &.show-menu {
+
+    .page {
+      @include vendor-prefix('transform', translateX(-1 * $sidebar-width));
+    }
+
+    .overlay {
+      opacity: 1;
+      z-index: 10;
+    }
+
+    @media (min-width: $screen-sm-min) {
+
+      .page {
+        @include vendor-prefix('transform', translateX(0px));
+      }
+
+      .overlay {
+        z-index: -1;
+        opacity: 0;
+      }
+    }
+  }
+}
+
+.page {
+  @include vendor-prefix('transition', all 0.4s ease 0s);
+  @include vendor-prefix('transform', translate(0px, 0px));
+
+  @media (min-width: $screen-sm-min) {
+    // We need to unset transform in order to allow fixed positioned elements inside.
+    transform: none;
+  }
+}
+
+.navigation {
+  width: $sidebar-width;
+  position: absolute;
+  right: -1 * $sidebar-width;
+  top: 0;
+  bottom: 0;
+  text-align: left;
+  background: $white;
+
+  @media (min-width: $screen-sm-min) {
+    $sidebar-width: 20%;
+    right: auto;
+    position: fixed;
+    width: $sidebar-width;
+    //margin-left: $sidebar-width * -1;
+    left: 0;
+
+    top: $sidebar-top-percent;
+    padding-right: $sidebar-padding;
+  }
+}
+
+.sidebar-logo {
+  @include vendor-prefix('transition', all 0.4s ease 0s);
+  @include vendor-prefix('transform', translateY(-100%));
+  font-style: italic;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.1);
+  font-size: 60px;
+  left: 0;
+  right: 0;
+  top: 0;
+  line-height: 160px;
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+
+  &:hover,
+  &:active,
+  &:focus {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+  }
+
+  &::before {
+    content: "&";
+  }
+}

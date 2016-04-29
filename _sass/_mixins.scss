@@ -1,0 +1,45 @@
+@mixin vendor-prefix($property, $transform) {
+  -moz-#{$property}: $transform;
+  -ms-#{$property}: $transform;
+  -o-#{$property}: $transform;
+  -webkit-#{$property}: $transform;
+  #{$property}: $transform;
+}
+
+@mixin menu($color, $width, $line-height, $distance, $padding, $bg) {
+  $num-lines: 3;
+  width: $width + 2 * $padding;
+  height: $num-lines * $line-height + ($num-lines - 1) * $distance + 2 * $padding;
+  display: inline-block;
+  padding: $padding;
+  background: $bg;
+
+  span {
+    display: block;
+    width: $width;
+    height: $line-height;
+    background: $color;
+    //height: $num-lines * $line-height + ($num-lines - 1) * $distance;
+    position: relative;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: $line-height + $distance;
+      width: $width;
+      height: $line-height;
+      background: $color;
+      display: block;
+    }
+
+    &::after {
+      content: "";
+      position: absolute;
+      top: 2 * ($line-height + $distance);
+      width: $width;
+      height: $line-height;
+      background: $color;
+      display: block;
+    }
+  }
+}
