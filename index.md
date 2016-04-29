@@ -103,7 +103,7 @@ Wissenschaftliche Untersuchungen zeigen, dass unsere <strong>Gedanken</strong> u
   <li><span>H</span>erzlich</li>
   <li><span>R</span>espektvoll</li>
   <li><span>I</span>nteressiert</li>
-  <li><span>S</span>trahlend/</li>
+  <li><span>S</span>trahlend</li>
   <li><span>T</span>olerant</li>
   <li><span>I</span>ntuitiv</li>
   <li><span>N</span>aturverbunden</li>
@@ -140,7 +140,7 @@ Nach Vereinbarung ist ein Sozialtarif möglich.
 Im Rahmen von "<em>fit2 work</em>", einem Projekt das Menschen hilft, wenn gesundheitliche Probleme deren Arbeitsplatz gefährden, ist eine <strong>Kostenübernahme</strong> unter bestimmten Voraussetzungen <strong>möglich</strong>.  
 Nähere Infos unter <a href="http://www.fit2work.at" target="_blank">http://www.fit2work.at</a>.
 
-Sollten Sie weiter Fragen haben, rufen Sie mich unverbindlich an:  
+Sollten Sie weitere Fragen haben, rufen Sie mich unverbindlich an:  
 Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
 
  <hr>
@@ -199,7 +199,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   </h3>
   <h4 class="media-subheading">Allgemeinmediziner in Hadres</h4>
   <div class="media-body">
-    Frau Mag.Hartl-Hörker findet sehr rasch guten Kontakt zu Patienten. Sie ist sehr einfühlsam für schwierige Lebenssituationen
+    Frau Mag.Hartl-Hörker findet sehr rasch guten Kontakt zu Patienten. Sie ist sehr einfühlsam in schwierige Lebenssituationen.
   </div>
 </div>
 
@@ -215,15 +215,15 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
 
   <div class="media-body">
     <p>
-      <a href="http://ibg.co.at">
-        <img src="{{ site.baseurl }}/assets/images/ibg.png" alt="IBG - Innovatives Betriebliches Gesundheitsmanagement">
-      </a>
-    </p>
-    <p>
-      An Christina schätzen wir und auch unsere Kunden besonders ihre offene Art, ihr Engagement für Menschen, ihre positive Ausstrahlung, ihre fachliche Kompetenz und Motivation sich weiter zu entwickeln.
+      An Christina schätzen wir und auch unsere Kunden besonders ihre offene Art, ihr Engagement für Menschen, ihre positive Ausstrahlung, ihre fachliche Kompetenz und Motivation sich weiterzuentwickeln.
     </p>
     <p>
       Sie ist eine Bereicherung für IBG und speziell für unser Team der Arbeitspsychologie. Ich bin sehr froh sie im Team zu haben.
+    </p>
+    <p>
+      <a href="http://ibg.co.at">
+        <img src="{{ site.baseurl }}/assets/images/ibg.png" alt="IBG - Innovatives Betriebliches Gesundheitsmanagement">
+      </a>
     </p>
   </div>
 </div>
