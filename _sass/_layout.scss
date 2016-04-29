@@ -94,6 +94,7 @@ body > .navigation {
   bottom: 0;
   text-align: left;
   background: $white;
+  z-index: 1;
 
   @media (min-width: $screen-sm-min) {
     $sidebar-width: 180px;
