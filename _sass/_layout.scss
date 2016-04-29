@@ -41,7 +41,8 @@ html {
   overflow: hidden; // To cut off the ampersand and not mess with the main content.
 }
 
-.content {
+.content,
+.footer {
   @extend .container-fluid;
 
 
