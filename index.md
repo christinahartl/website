@@ -158,7 +158,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   <div class="media-body">
     <p>Ich schätze Christina Hartl-Hörker sehr, besonders weil sie sowohl fachlich bestens ausgebildet ist, als auch menschlich sehr einfühlsam und behutsam mit ihren Klienten umgeht und stets ein Lächeln auf den Lippen trägt.</p>
 
-    <p>Sie besitzt die Fähigkeit, aus ihrem riesigen Methodenkoffer für jeden einzelnen Klienten das richtige und besten auszuwählen, sodass sich jeder bei ihr gut aufgehoben fühlt. Sie ist eine Kollegin, die ich gerne und mit bestem Gewissen weiter empfehle!</p>
+    <p>Sie besitzt die Fähigkeit, aus ihrem riesigen Methodenkoffer für jeden einzelnen Klienten das Richtige und Beste auszuwählen, sodass man sich bei ihr gut aufgehoben fühlt. Sie ist eine Kollegin, die ich gerne und mit bestem Gewissen weiterempfehle!</p>
   </div>
 </div>
 

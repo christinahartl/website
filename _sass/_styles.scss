@@ -260,11 +260,39 @@ a.list-group-item { // we need to match bootstrap's specicivity to override styl
 }
 
 .media-left {
-  padding-right: 1em;
+  display: block;
+  padding: 0;
+  text-align: center;
 
-  a {
-    width: 250px;
-    display: inline-block;
+  img {
+    display: inline;
+    max-height: 300px;
+    width: auto;
+    margin-bottom: 1em;
+  }
+
+  @media (min-width: $screen-xs-min) {
+    padding-right: 1em;
+    display: table-cell;
+
+    a {
+      width: 150px;
+      display: inline-block;
+    }
+
+    img {
+      display: block;
+      margin: 0;
+      max-height: none;
+      max-width: 100%;
+    }
+  }
+
+  @media (min-width: $screen-smm-min) {
+    
+    a {
+      width: 250px;
+    }
   }
 }
 

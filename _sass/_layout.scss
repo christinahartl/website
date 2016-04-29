@@ -33,6 +33,7 @@ html {
 // A global page wrapper, used to move the whole page when showing the menu on mobile.
 .page {
   @include vendor-prefix('transition', all 0.4s ease 0s);
+  @include vendor-prefix('transform', translateX(0px));
 }
 
 .header {
@@ -57,18 +58,37 @@ html {
 
   @media (min-width: $screen-sm-min) {
     margin-left: 180px;
-    padding: 0;
+    padding-left: 0;
   }
 
   @media (min-width: $screen-smm-min) {
     margin-left: auto;
     padding-left: 180px;
   }
+
+  @media (min-width: $screen-md-min) {
+    padding-right: 0;
+  }
+}
+
+body > .navigation {
+  display: none;
+
+  @media (min-width: $screen-sm-min) {
+    display: block;
+  }
+}
+
+.page .navigation {
+
+  @media (min-width: $screen-sm-min) {
+    display: none;
+  }
 }
 
 .navigation {
   width: $sidebar-width;
-  position: absolute;
+  position: fixed;
   right: -1 * $sidebar-width;
   top: 0;
   bottom: 0;

@@ -94,12 +94,11 @@ function nJ() {
 
 var $ = new nJ();
 $('.toggle-menu').on('click', function() {
-  $('.navigation, .toggle-menu').css('top', scroll.currentScrollTop + 'px');
-  $('html').addClass('show-menu');
+  $('.navigation').css('top', scroll.currentScrollTop + 'px');
+  $('html').toggleClass('show-menu');
 });
 
 $('.overlay').on('click', function() {
-  $('.toggle-menu').css('top', '0px');
   $('html').removeClass('show-menu');
 });
 
