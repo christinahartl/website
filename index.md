@@ -45,8 +45,6 @@ published: true
 ## Angebot
 
 ### Klinische Psychologie
-![wVlfnlTbRtK8eGvbnBZI_VolkanOlmez_005.jpg]({{site.baseurl}}/wVlfnlTbRtK8eGvbnBZI_VolkanOlmez_005.jpg)
-
 
 Als Klinische Psychologin unterstütze ich <strong>Menschen</strong> mit <strong>psychischen Störungen</strong> sowie mit somatischen Erkrankungen, bei denen psychische Aspekte eine Rolle spielen.  Auch psychische <strong>Extremsituationen</strong> und Krisen werden im Rahmen der Klinischen Psychologie behandelt.
 
