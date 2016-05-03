@@ -294,6 +294,21 @@ a.list-group-item { // we need to match bootstrap's specicivity to override styl
       width: 250px;
     }
   }
+
+  &.small {
+
+    @media (min-width: $screen-xs-min) {
+
+      a {
+        width: 114px;
+      }
+
+      img {
+        width: 100%;
+      }
+    }
+
+  }
 }
 
 .media-heading {

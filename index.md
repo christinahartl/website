@@ -33,7 +33,7 @@ phone: "+43 664 40 69 465"
     </a>
     <a class="list-group-item" href="#mental-coaching">
       <h4 class="list-group-item-heading">Mentalcoach</h4>
-      <p class="list-group-item-text">und Entspannungstrainings</p>
+      <p class="list-group-item-text">und Entspannungstraining</p>
     </a>
   </div>
 
@@ -41,7 +41,7 @@ phone: "+43 664 40 69 465"
 <hr>
 
 
-## Arbeitsweise
+## Angebot
 
 ### Klinische Psychologie
 
@@ -55,7 +55,7 @@ Als Klinische Psychologin unterstütze ich <strong>Menschen</strong> mit <strong
 
 
 <div class="work-type">
-  <h3>Gesundheitspsychologie</h3>
+  <h3 id="gesundheitspsychologie">Gesundheitspsychologie</h3>
   <img  src="{{ site.baseurl }}/assets/images/blatt.jpg" alt="">
   <p>
     Als  Gesundheitspsychologin befasse ich mich mit Aufgaben, die mit der Förderung und Erhaltung von <strong>körperlicher</strong> und <strong>psychischer Gesundheit</strong> zusammenhängen, zum Beispiel den <strong>Umgang mit Belastungen</strong>, oder ein <strong>gesunder Lebensstil</strong>.
@@ -77,7 +77,7 @@ Im Bereich Arbeitspsychologie stehen das <strong>Erleben</strong> und <strong>Ve
 * Kommunikation. 
 
 ### Klinische Hypnose nach Milton Erickson
-Die <a href="https://de.wikipedia.org/wiki/Hypnotherapie#Hypnotherapie_nach_Erickson" target="_nöaml">klinische Hypnose</a> ist eine Methode, die durch Trance Kontakt zu unserem <strong>Unbewussten</strong> - der inneren Welt - herstellen kann.<br>Dabei wird die <strong>Aufmerksamkeit nach Innen</strong> gerichtet und ein somit ein Bewusstseinszustand, eine sogenannte Trance, hergestellt, die wir vom Alltag kennen.
+Die <a href="https://de.wikipedia.org/wiki/Hypnotherapie#Hypnotherapie_nach_Erickson" target="_nöaml">klinische Hypnose</a> ist eine Methode, die durch Trance Kontakt zu unserem <strong>Unbewussten</strong> - der inneren Welt - herstellen kann.<br>Dabei wird die <strong>Aufmerksamkeit nach Innen</strong> gerichtet und somit ein Bewusstseinszustand, eine sogenannte Trance, hergestellt, die wir vom Alltag kennen.
 
 Beispielsweise können wir uns manchmal nicht genau daran erinnern, wie wir von einem Ort zum anderen gekommen sind. Das <strong>Unbewusste</strong> wird nach Erickson als <strong>Ort der Kompetenzen</strong> und <strong>Ressourcen</strong> definiert.
 
@@ -89,12 +89,22 @@ Entspannung sehe ich als einen <strong>wesentlichen Bestandteil</strong> unserer
 
 
 ### Mental Coaching
-<img src="{{ site.baseurl }}/assets/images/klinische-psychologie.jpg" alt="">
-
 Wissenschaftliche Untersuchungen zeigen, dass unsere <strong>Gedanken</strong> unsere <strong>Gefühle beeinflussen</strong> und umgekehrt. Mit Hilfe von Mentaltechniken wird es möglich, unsere <strong>Gedanken mitzugestalten</strong> und somit eine positiven Einfluss auf unser Leben zu nehmen.
  Je leidenschaftlicher und intensiver unsere Gedanken, desto eher werden sie Wirklichkeit.
 
- <hr>
+<hr>
+
+## Arbeitsweise
+
+### Der Hypnosystemische Ansatz
+
+Der Hypnosystemische Ansatz  (nach Gunther Schmidt) verbindet die hypnotherapeutischen Konzepte von Milton H. Erickson mit den systemisch-konstruktivistischen Konzepten der <em>Heidelberger Schule</em>.
+
+Jedes Individuum gilt als autonomes, sich selbst organisierendes, lebendes System, das ein breites Repertoire an Ressourcen und Kompetenzen, zum Teil  auch unbewusst, besitzt. Es gilt diese Kompetenzmuster zu entdecken, zu reaktivieren bzw. zu erweitern.
+
+Die Wirksamkeit der Methoden ist wissenschaftlich untersucht.
+
+<hr>
 
 <h2 id="ueber-mich">Über mich</h2>
 
@@ -115,13 +125,13 @@ Nach dem Studium der Psychologie habe ich mich als Klinische und Gesundheitspsyc
 Bei meiner Tätigkeit im <a href="http://ibg.co.at" target="_blank">IBG</a> entdeckte ich auch mein Interesse für das Feld der <a href="#arbeitspsychologie">Arbeitspsychologie</a>.
 Diesem bin ich bis heute treu geblieben und arbeite nach wie vor mit dem Unternehmen zusammen.
 
-In den zahlreichen Weiterbildungen die ich besuche, beschäftige ich mich unter anderem mit den Arbeiten von <a href="https://de.wikipedia.org/wiki/Milton_H._Erickson" target="_blank">Milton Erickson</a> (dem Begründer der Hypnose) und Margarita Zinterhof (Mental- und Intuitionstraining).
+In den zahlreichen Weiterbildungen die ich besuche, beschäftige ich mich unter anderem mit den Arbeiten von <a href="https://de.wikipedia.org/wiki/Milton_H._Erickson" target="_blank">Milton Erickson</a> (dem Begründer der Hypnose), <a href="https://de.wikipedia.org/wiki/Gunther_Schmidt_%28Mediziner%29" target="_blank">Gunther Schmidt</a> (hypnosystemischer Ansatz) und Margarita Zinterhof (Mental- und Intuitionstraining).
 
-<img src="{{site.baseurl }}/assets/images/christina-hartl-hoerker2.jpg" alt="Christina Hartl-Hörker" style="display: block; margin: 0 auto;">
+<img src="{{site.baseurl }}/assets/images/familie-hartl-hoerker.jpg" alt="Familie Hartl-Hörker" style="display: block; margin: 0 auto;">
 
 Mittlerweile bin ich verheiratet und habe 2 Kinder.
 
- <hr>
+<hr>
 
 ## Kosten 
 
@@ -143,7 +153,7 @@ Nähere Infos unter <a href="http://www.fit2work.at" target="_blank">http://www.
 Sollten Sie weitere Fragen haben, rufen Sie mich unverbindlich an:  
 Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
 
- <hr>
+<hr>
 
 ## Kooperationen
 
@@ -212,6 +222,11 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   <h4 class="media-subheading">
     Leiterin Fachbereich Arbeitspsychologie bei IBG
   </h4>
+  <div class="media-left small">
+    <a href="http://ibg.co.at" target="_blank">
+      <img class="media-object" src="{{ site.baseurl }}/assets/images/regina-nicham.jpg" alt="Mag. Regina Nicham">
+    </a>
+  </div>
 
   <div class="media-body">
     <p>
