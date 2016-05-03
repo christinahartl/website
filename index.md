@@ -1,6 +1,7 @@
 ---
 layout: default
-phone: "+43 664 40 69 465"
+phone: +43 664 40 69 465
+published: true
 ---
 
 <blockquote>
@@ -10,8 +11,8 @@ phone: "+43 664 40 69 465"
 
 <div class="psychologist">
   <div class="christina">
-    <img src="{{ site.baseurl }}/assets/images/christina-hartl-hoerker.jpg" alt="Christina Hartl Hörker" class="portrait"><br>
-    <img class="signature" src="{{ site.baseurl }}/assets/images/signature.jpg" alt="Christina Hartl Hörker">
+    <img src="/assets/images/christina-hartl-hoerker.jpg" alt="Christina Hartl Hörker" class="portrait"><br>
+    <img class="signature" src="/assets/images/signature.jpg" alt="Christina Hartl Hörker">
   </div>
 
   <div class="skills" role="group" aria-label="Unternavigation">
@@ -56,7 +57,7 @@ Als Klinische Psychologin unterstütze ich <strong>Menschen</strong> mit <strong
 
 <div class="work-type">
   <h3 id="gesundheitspsychologie">Gesundheitspsychologie</h3>
-  <img  src="{{ site.baseurl }}/assets/images/blatt.jpg" alt="">
+  <img src="/assets/images/blatt.jpg" alt="">
   <p>
     Als  Gesundheitspsychologin befasse ich mich mit Aufgaben, die mit der Förderung und Erhaltung von <strong>körperlicher</strong> und <strong>psychischer Gesundheit</strong> zusammenhängen, zum Beispiel den <strong>Umgang mit Belastungen</strong>, oder ein <strong>gesunder Lebensstil</strong>.
   </p>
@@ -77,7 +78,7 @@ Im Bereich Arbeitspsychologie stehen das <strong>Erleben</strong> und <strong>Ve
 * Kommunikation. 
 
 ### Klinische Hypnose nach Milton Erickson
-Die <a href="https://de.wikipedia.org/wiki/Hypnotherapie#Hypnotherapie_nach_Erickson" target="_nöaml">klinische Hypnose</a> ist eine Methode, die durch Trance Kontakt zu unserem <strong>Unbewussten</strong> - der inneren Welt - herstellen kann.<br>Dabei wird die <strong>Aufmerksamkeit nach Innen</strong> gerichtet und somit ein Bewusstseinszustand, eine sogenannte Trance, hergestellt, die wir vom Alltag kennen.
+Die <a href="https://de.wikipedia.org/wiki/Hypnotherapie#Hypnotherapie_nach_Erickson" target="_blank">klinische Hypnose</a> ist eine Methode, die durch Trance Kontakt zu unserem <strong>Unbewussten</strong> - der inneren Welt - herstellen kann.<br>Dabei wird die <strong>Aufmerksamkeit nach Innen</strong> gerichtet und somit ein Bewusstseinszustand, eine sogenannte Trance, hergestellt, die wir vom Alltag kennen.
 
 Beispielsweise können wir uns manchmal nicht genau daran erinnern, wie wir von einem Ort zum anderen gekommen sind. Das <strong>Unbewusste</strong> wird nach Erickson als <strong>Ort der Kompetenzen</strong> und <strong>Ressourcen</strong> definiert.
 
@@ -127,7 +128,7 @@ Diesem bin ich bis heute treu geblieben und arbeite nach wie vor mit dem Unterne
 
 In den zahlreichen Weiterbildungen die ich besuche, beschäftige ich mich unter anderem mit den Arbeiten von <a href="https://de.wikipedia.org/wiki/Milton_H._Erickson" target="_blank">Milton Erickson</a> (dem Begründer der Hypnose), <a href="https://de.wikipedia.org/wiki/Gunther_Schmidt_%28Mediziner%29" target="_blank">Gunther Schmidt</a> (hypnosystemischer Ansatz) und Margarita Zinterhof (Mental- und Intuitionstraining).
 
-<img src="{{site.baseurl }}/assets/images/familie-hartl-hoerker.jpg" alt="Familie Hartl-Hörker" style="display: block; margin: 0 auto;">
+<img src="/assets/images/familie-hartl-hoerker.jpg" alt="Familie Hartl-Hörker" style="display: block; margin: 0 auto;">
 
 Mittlerweile bin ich verheiratet und habe 2 Kinder.
 
@@ -144,7 +145,7 @@ Im Normalfall übernehmen die Krankenkassen leider noch keine Therapiekosten, fr
 Nach Vereinbarung ist ein Sozialtarif möglich.
 
 <a href="http://www.fit2work.at" target="_blank">
-  <img src="{{ site.baseurl }}/assets/images/fit2work.jpg" alt="fit2work.at">
+  <img src="/assets/images/fit2work.jpg" alt="fit2work.at">
 </a>
 <br>
 Im Rahmen von "<em>fit2 work</em>", einem Projekt das Menschen hilft, wenn gesundheitliche Probleme deren Arbeitsplatz gefährden, ist eine <strong>Kostenübernahme</strong> unter bestimmten Voraussetzungen <strong>möglich</strong>.  
@@ -166,7 +167,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   <h4 class="media-subheading">Klinische und Gesundheitspsychologin, Arbeitspsychologin</h4>
   <div class="media-left">
     <a href="http://www.praxis-wendepunkt.at" target="_blank">
-      <img class="media-object" src="{{ site.baseurl }}/assets/images/barbara-amon.jpg" alt="Mag. Barbara Amon">
+      <img class="media-object" src="/assets/images/barbara-amon.jpg" alt="Mag. Barbara Amon">
     </a>
   </div>
   <div class="media-body">
@@ -185,7 +186,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   <h4 class="media-subheading">Klinische und Gesundheitspsychologin</h4>
   <div class="media-left">
     <a href="http://www.monika-hofbauer.com" target="_blank">
-      <img class="media-object" src="{{ site.baseurl }}/assets/images/monika-hofbauer.jpg" alt="Mag. Monika Hofbauer">
+      <img class="media-object" src="/assets/images/monika-hofbauer.jpg" alt="Mag. Monika Hofbauer">
     </a>
   </div>
   <div class="media-body">
@@ -224,7 +225,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   </h4>
   <div class="media-left small">
     <a href="http://ibg.co.at" target="_blank">
-      <img class="media-object" src="{{ site.baseurl }}/assets/images/regina-nicham.jpg" alt="Mag. Regina Nicham">
+      <img class="media-object" src="/assets/images/regina-nicham.jpg" alt="Mag. Regina Nicham">
     </a>
   </div>
 
@@ -237,14 +238,8 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
     </p>
     <p>
       <a href="http://ibg.co.at">
-        <img src="{{ site.baseurl }}/assets/images/ibg.png" alt="IBG - Innovatives Betriebliches Gesundheitsmanagement">
+        <img src="/assets/images/ibg.png" alt="IBG - Innovatives Betriebliches Gesundheitsmanagement">
       </a>
     </p>
   </div>
 </div>
-
-<!--Dr.Gunther Leeb
-Christine Hackl
-Rotes Kreuz -->
-
-
