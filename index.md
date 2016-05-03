@@ -43,6 +43,8 @@ published: true
 
 
 ## Angebot
+![favicon.png]({{site.baseurl}}/favicon.png)
+
 
 ### Klinische Psychologie
 
