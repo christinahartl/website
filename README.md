@@ -1,2 +1,2 @@
 # Website von Christina Hartl Hörker
-Hier können wir Informationen sammeln, die du beim Bearbeiten deiner Website wissen musst.
+Damit du den Inhalt bearbeiten kannst, musst du auf den Branch "gh-pages" wechseln.
