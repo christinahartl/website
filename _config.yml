@@ -19,5 +19,6 @@ sass:
   style: compressed
 
 # Configuration used for prose.io
-siteurl: "http://hartl-hoerker.at"
-media: "assets/images"
+prose: 
+  siteurl: "http://hartl-hoerker.at"
+  media: "assets/images"
