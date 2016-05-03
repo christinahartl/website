@@ -41,8 +41,6 @@ published: true
 </div>
 <hr>
 
-![wVlfnlTbRtK8eGvbnBZI_VolkanOlmez_005.jpg]({{site.baseurl}}/assets/images/wVlfnlTbRtK8eGvbnBZI_VolkanOlmez_005.jpg)
-
 ## Angebot
 
 ### Klinische Psychologie
