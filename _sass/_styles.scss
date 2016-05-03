@@ -352,7 +352,10 @@ a.list-group-item { // we need to match bootstrap's specicivity to override styl
   padding: 0;
   margin: 2em 0;
   overflow: hidden;
-  text-align: center;
+
+  @media (min-width: $screen-ssm-min) {
+    text-align: center;
+  }
 
   li {
     font-size: 16px;
