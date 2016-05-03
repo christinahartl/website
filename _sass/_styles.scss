@@ -350,18 +350,22 @@ a.list-group-item { // we need to match bootstrap's specicivity to override styl
 .character-traits {
   list-style: none;
   padding: 0;
-  margin: 1em 0;
+  margin: 2em 0;
+  overflow: hidden;
+  text-align: center;
 
   li {
-    font-size: 24px;
-    color: lighten($text-color, 10%);
-    line-height: 1.6em;
+    font-size: 16px;
+    color: lighten($text-color, 15%);
+    line-height: 2.5em;
+    display: inline;
+    margin-right: 1em;
   }
 
   span {
     font-weight: 500;
     color: $blue;
-    font-size: 160%;
+    font-size: 220%;
     margin-right: 0.05em;
   }
 }

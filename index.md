@@ -110,14 +110,14 @@ Die Wirksamkeit der Methoden ist wissenschaftlich untersucht.
 
 <ul class="character-traits">
   <li><span>C</span>harmant</li>
-  <li><span>H</span>erzlich</li>
-  <li><span>R</span>espektvoll</li>
-  <li><span>I</span>nteressiert</li>
-  <li><span>S</span>trahlend</li>
-  <li><span>T</span>olerant</li>
-  <li><span>I</span>ntuitiv</li>
-  <li><span>N</span>aturverbunden</li>
-  <li><span>A</span>ufmerksam</li>
+  <li><span>h</span>erzlich</li>
+  <li><span>r</span>espektvoll</li>
+  <li><span>i</span>nteressiert</li>
+  <li><span>s</span>trahlend</li>
+  <li><span>t</span>olerant</li>
+  <li><span>i</span>ntuitiv</li>
+  <li><span>n</span>aturverbunden</li>
+  <li><span>a</span>ufmerksam</li>
 </ul>
 
 Nach dem Studium der Psychologie habe ich mich als Klinische und Gesundheitspsychologin ausbilden lassen. Meine ersten beruflichen Erfahrungen sammelte ich im <a href="http://www.fem.at" target="_blank">Frauengesundheitszentrum F.E.M</a>, dem <a href="http://www.pszw.at" target="_blank">psychosomatischen Zentrum</a> in Eggenburg und der Firma <a href="http://ibg.co.at" target="_blank">IBG</a> (Innovatives berufliches Gesundheitsmanagement).
