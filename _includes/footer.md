@@ -1,2 +1,2 @@
 Christina Hartl-Hörker - Klinische-<span class="ampersand">&amp;</span>Gesundheitspsychologin<br>
-Hoysgasse 8, 2020 Hollabrunn, +43 664 40 69 465
+Hoysgasse 8, 2020 Hollabrunn, <a href="tel:00436644069465">+43 664 40 69 465</a> <a href="mailto:christina@hartl-hoerker.at">christina@hartl-hoerker.at</a>
