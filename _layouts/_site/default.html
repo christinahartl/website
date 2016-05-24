@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <a class="toggle-menu" title="Menü ein/ausblenden">
+      <span></span>
+      <span></span>
+    </a>
+    {% include navigation.html %}
+    <div class="page">
+      <header class="header" id="home">
+        <div class="container-fluid">
+          {% include header.html %}
+        </div>
+      </header>
+      {% include navigation.html %}
+      <div class="content">
+        {{ content }}
+      </div>
+
+      <footer class="footer">
+        <div class="content">
+          {% include footer.md %}
+        </div>
+      </footer>
+      <div class="overlay"></div>
+    </div>
+    <script>window.noZensmooth = true;</script>
+    <script src="{{ site.baseurl }}/assets/js/zenscroll-min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/scripts.js"></script>
+  </body>
+</html>
