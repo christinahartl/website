@@ -37,7 +37,8 @@ published: true
       <p class="list-group-item-text">und Entspannungstraining</p>
     </a>
   </div>
-
+  <a href="tel:00436644069465">+43-664-4069465</a>
+  <a href="mailto:christina@hartl-hoerker.at">christina@hartl-hoerker.at</a>
 </div>
 <hr>
 
