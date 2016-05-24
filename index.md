@@ -4,8 +4,6 @@ phone: +43 664 40 69 465
 published: true
 ---
 
-<div class="content">
-
 <blockquote>
   <span>Die Dinge loszulassen bedeutet nicht, sie loszuwerden.<br>Sie loslassen bedeutet, dass man sie sein lässt.</span>
   <footer>Jack Kornfield</footer>
@@ -61,7 +59,7 @@ Als Klinische Psychologin unterstütze ich <strong>Menschen</strong> mit <strong
 
 <div class="work-type">
   <h3 id="gesundheitspsychologie">Gesundheitspsychologie</h3>
-  <img src="/assets/images/blatt.jpg" alt="">
+  <img src="/assets/images/baum1.jpg" alt="">
   <p>
     Als  Gesundheitspsychologin befasse ich mich mit Aufgaben, die mit der Förderung und Erhaltung von <strong>körperlicher</strong> und <strong>psychischer Gesundheit</strong> zusammenhängen, zum Beispiel den <strong>Umgang mit Belastungen</strong>, oder ein <strong>gesunder Lebensstil</strong>.
   </p>
@@ -132,7 +130,7 @@ Diesem bin ich bis heute treu geblieben und arbeite nach wie vor mit dem Unterne
 
 In den zahlreichen Weiterbildungen die ich besuche, beschäftige ich mich unter anderem mit den Arbeiten von <a href="https://de.wikipedia.org/wiki/Milton_H._Erickson" target="_blank">Milton Erickson</a> (dem Begründer der Hypnose), <a href="https://de.wikipedia.org/wiki/Gunther_Schmidt_%28Mediziner%29" target="_blank">Gunther Schmidt</a> (hypnosystemischer Ansatz) und Margarita Zinterhof (Mental- und Intuitionstraining).
 
-<img src="/assets/images/familie-hartl-hoerker.jpg" alt="Familie Hartl-Hörker" style="display: block; margin: 0 auto;">
+<img src="/assets/images/familie-hartl-hoerker.jpg" alt="Familie Hartl-Hörker" style="">
 
 Mittlerweile bin ich verheiratet und habe 2 Kinder.
 
@@ -225,7 +223,10 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
     </a>
   </h3>
   <h4 class="media-subheading">
-    Leiterin Fachbereich Arbeitspsychologie bei IBG
+    Leiterin Fachbereich Arbeitspsychologie bei
+    <a href="http://ibg.co.at">
+      <img src="/assets/images/ibg.png" alt="IBG - Innovatives Betriebliches Gesundheitsmanagement">
+    </a>
   </h4>
   <div class="media-left small">
     <a href="http://ibg.co.at" target="_blank">
@@ -240,21 +241,5 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
     <p>
       Sie ist eine Bereicherung für IBG und speziell für unser Team der Arbeitspsychologie. Ich bin sehr froh sie im Team zu haben.
     </p>
-    <p>
-      <a href="http://ibg.co.at">
-        <img src="/assets/images/ibg.png" alt="IBG - Innovatives Betriebliches Gesundheitsmanagement">
-      </a>
-    </p>
   </div>
 </div>
-
-</div>
-
-
-<footer class="footer">
-  <div class="content">
-    Christina Hartl-Hörker - Klinische-<span class="ampersand">&amp;</span>Gesundheitspsychologin<br>
-    Hoysgasse 8, 2020 Hollabrunn, <a href="tel:00436644069465">+43 664 40 69 465</a> <a href="mailto:christina@hartl-hoerker.at">christina@hartl-hoerker.at</a>
-  </div>
-</footer>
-

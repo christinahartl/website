@@ -33,5 +33,3 @@ Wenn du in einem Absatz einen Zeilenumbruch einfügen möchtest, verwende <br>.
 Bilder einfügen kannst du, indem du Dateien direkt ins Fenster von prose.io ziehst.
 
 So fürst du einen <a href="http://meine-zieladresse.at">Link</a> in einen Text ein.
-
-Die Kontaktdaten ganz unten kannst du in folgendem File bearbeiten: /_includes/footer.md

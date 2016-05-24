@@ -14,8 +14,15 @@
         </div>
       </header>
       {% include navigation.html %}
-      {{ content }}
-      
+      <div class="content">
+        {{ content }}
+      </div>
+
+      <footer class="footer">
+        <div class="content">
+          {% include footer.html %}
+        </div>
+      </footer>
       <div class="overlay"></div>
     </div>
     <script>window.noZensmooth = true;</script>

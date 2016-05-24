@@ -330,6 +330,7 @@ a.list-group-item { // we need to match bootstrap's specicivity to override styl
   color: $text-color;
   font-size: $font-size-base;
   margin: 0 0 1.5em 0;
+  overflow: hidden;
 }
 
 .work-type {
@@ -341,7 +342,6 @@ a.list-group-item { // we need to match bootstrap's specicivity to override styl
   }
 
   > img {
-    width: 120px;
     float: left;
     margin-right: 1em;
   }
