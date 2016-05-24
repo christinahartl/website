@@ -291,7 +291,7 @@ a.list-group-item { // we need to match bootstrap's specicivity to override styl
   @media (min-width: $screen-smm-min) {
     
     a {
-      width: 200px;
+      width: 114px; // 114 because the smalled picture is 114px wide.
     }
   }
 
