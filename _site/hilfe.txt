@@ -1,0 +1,37 @@
+Hier eine kurze Anleitung, wo bzw wie du Inhalte bearbeiten kannst:
+
+
+Grundsätzlich ist der Inhalt der Seite in der Datei: "/index.md" zu finden.
+Wenn du etwas an der Navigation ändern möchtest, musst du die Datei "/_includes/navigation.html" öffnen.
+Wenn du etwas am HEADER (= Logo und psychologische Praxis Christina Hartl Hörker) ändern möchtest, musst du die Datei "/_includes/header.html" öffnen.
+
+
+Hier die wichtigsten Infos zum Erstellen/Bearbeiten von Inhalten:
+
+Grundsätzlich gibt es für jeden Navigationspunkt eine Überschrift 2. Grades und für alle Unterpunkte jeweils eine ###
+
+## Das ist eine Überschrift 2. Grades
+### Das ist eine Überschrift 3. Grades
+<h2>Das ist ebenfalls eine Überschrift 2. Grades</h2>
+<h3>Das ist nochmal eine Überschrift 3. Grades</h3>
+
+Das ist ein Absatz. Ein Absatz hat vor und nach dem Text je eine Leerzeile.
+
+
+* Das ist eine Liste (und gleichzeitig das 1. Element darin)
+* Das ist das 2. Listenelement
+* Wichtig ist, dass nach dem * ein Leerzeichen kommt, bevor der Text beginnt.
+
+Wenn du etwas fett markieren möchtest machst du das folgendermaßen:
+Das sind 3 <strong>fett geschriebene Wörter</strong>.
+
+Wenn du etwas kursiv schreiben möchtest geht das so:
+Das sind 2 <em>kursive Wörter</em>.
+
+Wenn du in einem Absatz einen Zeilenumbruch einfügen möchtest, verwende <br>.
+
+Bilder einfügen kannst du, indem du Dateien direkt ins Fenster von prose.io ziehst.
+
+
+
+So fürst du einen <a href="http://meine-zieladresse.at">Link</a> in einen Text ein.
