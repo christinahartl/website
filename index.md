@@ -4,6 +4,8 @@ phone: +43 664 40 69 465
 published: true
 ---
 
+<div class="content">
+
 <blockquote>
   <span>Die Dinge loszulassen bedeutet nicht, sie loszuwerden.<br>Sie loslassen bedeutet, dass man sie sein lässt.</span>
   <footer>Jack Kornfield</footer>
@@ -39,9 +41,9 @@ published: true
   </div>
 </div>
 
-  
-<a href="tel:00436644069465">+43-664-4069465</a><br>
-<a href="mailto:christina@hartl-hoerker.at">christina@hartl-hoerker.at</a>
+<div class="header-contact text-center"> 
+  <a href="tel:00436644069465">+43-664-4069465</a> <a href="mailto:christina@hartl-hoerker.at">christina@hartl-hoerker.at</a>
+</div>
 <hr>
 
 ## Angebot
@@ -245,3 +247,14 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
     </p>
   </div>
 </div>
+
+</div>
+
+
+<footer class="footer">
+  <div class="content">
+    Christina Hartl-Hörker - Klinische-<span class="ampersand">&amp;</span>Gesundheitspsychologin<br>
+    Hoysgasse 8, 2020 Hollabrunn, <a href="tel:00436644069465">+43 664 40 69 465</a> <a href="mailto:christina@hartl-hoerker.at">christina@hartl-hoerker.at</a>
+  </div>
+</footer>
+

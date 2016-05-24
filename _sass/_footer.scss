@@ -2,5 +2,9 @@
   background: $blue;
   padding: 2em 0;
   font-size: $font-size-small;
-  color: rgba(255, 255, 255, 0.8);
+  color: $footer-color;
+
+  a {
+    color: $footer-color;
+  }
 }
