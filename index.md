@@ -132,7 +132,7 @@ Diesem bin ich bis heute treu geblieben und arbeite nach wie vor mit dem Unterne
 
 In den zahlreichen Weiterbildungen die ich besuche, beschäftige ich mich unter anderem mit den Arbeiten von <a href="https://de.wikipedia.org/wiki/Milton_H._Erickson" target="_blank">Milton Erickson</a> (dem Begründer der Hypnose), <a href="https://de.wikipedia.org/wiki/Gunther_Schmidt_%28Mediziner%29" target="_blank">Gunther Schmidt</a> (hypnosystemischer Ansatz) und Margarita Zinterhof (Mental- und Intuitionstraining).
 
-<img src="/assets/images/familie-hartl-hoerker.jpg" alt="Familie Hartl-Hörker" style="display: block; margin: 0 auto;">
+![familie-hartl-hoerker.jpg]({{site.baseurl}}/assets/images/familie-hartl-hoerker.jpg)
 
 Mittlerweile bin ich verheiratet und habe 2 Kinder.
 
@@ -257,4 +257,3 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
     Hoysgasse 8, 2020 Hollabrunn, <a href="tel:00436644069465">+43 664 40 69 465</a> <a href="mailto:christina@hartl-hoerker.at">christina@hartl-hoerker.at</a>
   </div>
 </footer>
-
