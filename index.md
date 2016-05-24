@@ -1,5 +1,6 @@
 ---
 layout: default
+phone: +43 664 40 69 465
 published: true
 ---
 
