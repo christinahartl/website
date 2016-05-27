@@ -144,7 +144,7 @@ Ein <strong>Erstgespräch</strong> kostet <strong>30 Euro</strong> für die Daue
 Weitere Gespräche variieren je nach Angebot zwischen 70 und 80 Euro für die Dauer von 55min. 
  
 
-Im Normalfall übernehmen die Krankenkassen leider noch keine Therapiekosten, fragen Sie aber zur Sicherheit nach!
+Im Normalfall übernehmen die Krankenkassen leider noch keine Therapiekosten, fragen Sie aber zur Sicherheit nach.
 
 Nach Vereinbarung ist ein Sozialtarif möglich.
 
