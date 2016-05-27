@@ -101,6 +101,9 @@ Wissenschaftliche Untersuchungen zeigen, dass unsere <strong>Gedanken</strong> u
 
 ### Der Hypnosystemische Ansatz
 
+<span>Du bist einzigartig.</span>
+![Blumen_2.jpg]({{site.baseurl}}/assets/images/Blumen_2.jpg)
+
 Der Hypnosystemische Ansatz  (nach Gunther Schmidt) verbindet die hypnotherapeutischen Konzepte von Milton H. Erickson mit den systemisch-konstruktivistischen Konzepten der <em>Heidelberger Schule</em>.
 
 Jedes Individuum gilt als autonomes, sich selbst organisierendes, lebendes System, das ein breites Repertoire an Ressourcen und Kompetenzen, zum Teil  auch unbewusst, besitzt. Es gilt diese Kompetenzmuster zu entdecken, zu reaktivieren bzw. zu erweitern.
@@ -129,8 +132,6 @@ Bei meiner Tätigkeit im <a href="http://ibg.co.at" target="_blank">IBG</a> entd
 Diesem bin ich bis heute treu geblieben und arbeite nach wie vor mit dem Unternehmen zusammen.
 
 In den zahlreichen Weiterbildungen die ich besuche, beschäftige ich mich unter anderem mit den Arbeiten von <a href="https://de.wikipedia.org/wiki/Milton_H._Erickson" target="_blank">Milton Erickson</a> (dem Begründer der Hypnose), <a href="https://de.wikipedia.org/wiki/Gunther_Schmidt_%28Mediziner%29" target="_blank">Gunther Schmidt</a> (hypnosystemischer Ansatz) und Margarita Zinterhof (Mental- und Intuitionstraining).
-
-<img src="/assets/images/familie-hartl-hoerker.jpg" alt="Familie Hartl-Hörker" style="max-width:250px; display:block; margin: 0 auto;">
 
 Mittlerweile bin ich verheiratet und habe 2 Kinder.
 
