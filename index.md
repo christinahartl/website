@@ -101,8 +101,7 @@ Wissenschaftliche Untersuchungen zeigen, dass unsere <strong>Gedanken</strong> u
 
 ### Der Hypnosystemische Ansatz
 
- <"Du bist einzigartig.display:block; margin: 0 auto;"> 
- 
+ <"Du bist einzigartig.;display:block; margin: 0 auto;"> 
  
 ![Blumen_2.jpg]({{site.baseurl}}/assets/images/Blumen_2.jpg)
 
