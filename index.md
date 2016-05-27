@@ -101,10 +101,9 @@ Wissenschaftliche Untersuchungen zeigen, dass unsere <strong>Gedanken</strong> u
 
 ### Der Hypnosystemische Ansatz
 
-<blockquote>
-  <span>Du bist einzigartig.</span>
-  <footer>Jack Kornfield</footer>
-</blockquote>
+<Du bist einzigartig.display:block; margin: 0 auto;">
+ 
+ 
 ![Blumen_2.jpg]({{site.baseurl}}/assets/images/Blumen_2.jpg)
 
 Der Hypnosystemische Ansatz  (nach Gunther Schmidt) verbindet die hypnotherapeutischen Konzepte von Milton H. Erickson mit den systemisch-konstruktivistischen Konzepten der <em>Heidelberger Schule</em>.
