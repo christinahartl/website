@@ -140,13 +140,13 @@ Mittlerweile bin ich verheiratet und habe 2 Kinder.
 
 ## Kosten 
 
-Ein <strong>Erstgespräch</strong> kostet <strong>30 Euro</strong> für die Dauer von 30 bis 45 min.   
-Weitere Gespräche variieren je nach Angebot zwischen 70 und 80 Euro für die Dauer von 55min. 
+Ein <strong>Erstgespräch</strong> kostet <strong>30 Euro</strong> für die Dauer von 30min.   
+Weitere Gespräche variieren je nach Angebot zwischen 70 und 80 Euro für die Dauer von 50min. 
  
 
 Im Normalfall übernehmen die Krankenkassen leider noch keine Therapiekosten, fragen Sie aber zur Sicherheit nach.
 
-Nach Vereinbarung ist ein Sozialtarif möglich.
+Auf Anfrage und nach Verfügbarkeit ist ein ermäßigter Tarif möglich.
 
 <a href="http://www.fit2work.at" target="_blank">
   <img src="/assets/images/fit2work.jpg" alt="fit2work.at">
@@ -214,7 +214,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   </h3>
   <h4 class="media-subheading">Allgemeinmediziner in Hadres</h4>
   <div class="media-body">
-    Frau Mag.Hartl-Hörker findet sehr rasch guten Kontakt zu Patienten. Sie ist sehr einfühlsam in schwierige Lebenssituationen.
+    Frau Mag.Hartl-Hörker findet sehr rasch guten Kontakt zu Patienten. Sie ist sehr einfühlsam in schwierigen Lebenssituationen.
   </div>
 </div>
 
