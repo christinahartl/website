@@ -100,6 +100,10 @@ Wissenschaftliche Untersuchungen zeigen, dass unsere <strong>Gedanken</strong> u
 ## Arbeitsweise
 
 ### Der Hypnosystemische Ansatz
+<blockquote>
+  <span>Du bist einzigartig.</span>
+</blockquote>
+![Blumen_2.jpg]({{site.baseurl}}/assets/images/Blumen_2.jpg)
 
 Der Hypnosystemische Ansatz  (nach Gunther Schmidt) verbindet die hypnotherapeutischen Konzepte von Milton H. Erickson mit den systemisch-konstruktivistischen Konzepten der <em>Heidelberger Schule</em>.
 
@@ -130,21 +134,19 @@ Diesem bin ich bis heute treu geblieben und arbeite nach wie vor mit dem Unterne
 
 In den zahlreichen Weiterbildungen die ich besuche, beschäftige ich mich unter anderem mit den Arbeiten von <a href="https://de.wikipedia.org/wiki/Milton_H._Erickson" target="_blank">Milton Erickson</a> (dem Begründer der Hypnose), <a href="https://de.wikipedia.org/wiki/Gunther_Schmidt_%28Mediziner%29" target="_blank">Gunther Schmidt</a> (hypnosystemischer Ansatz) und Margarita Zinterhof (Mental- und Intuitionstraining).
 
-<img src="/assets/images/familie-hartl-hoerker.jpg" alt="Familie Hartl-Hörker" style="max-width:250px; display:block; margin: 0 auto;">
-
 Mittlerweile bin ich verheiratet und habe 2 Kinder.
 
 <hr>
 
 ## Kosten 
 
-Ein <strong>Erstgespräch</strong> kostet <strong>30 Euro</strong> für die Dauer von 30 bis 45 min.   
-Weitere Gespräche variieren je nach Angebot zwischen 70 und 80 Euro für die Dauer von 55min. 
+Ein <strong>Erstgespräch</strong> kostet <strong>30 Euro</strong> für die Dauer von 30min.   
+Weitere Gespräche variieren je nach Angebot zwischen 70 und 80 Euro für die Dauer von 50min. 
  
 
-Im Normalfall übernehmen die Krankenkassen leider noch keine Therapiekosten, fragen Sie aber zur Sicherheit nach!
+Im Normalfall übernehmen die Krankenkassen leider noch keine Therapiekosten, fragen Sie aber zur Sicherheit nach.
 
-Nach Vereinbarung ist ein Sozialtarif möglich.
+Auf Anfrage und nach Verfügbarkeit ist ein ermäßigter Tarif möglich.
 
 <a href="http://www.fit2work.at" target="_blank">
   <img src="/assets/images/fit2work.jpg" alt="fit2work.at">
@@ -212,7 +214,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   </h3>
   <h4 class="media-subheading">Allgemeinmediziner in Hadres</h4>
   <div class="media-body">
-    Frau Mag.Hartl-Hörker findet sehr rasch guten Kontakt zu Patienten. Sie ist sehr einfühlsam in schwierige Lebenssituationen.
+    Frau Mag.Hartl-Hörker findet sehr rasch guten Kontakt zu Patienten. Sie ist sehr einfühlsam in schwierigen Lebenssituationen.
   </div>
 </div>
 
