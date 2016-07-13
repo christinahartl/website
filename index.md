@@ -44,6 +44,17 @@ published: true
 </div>
 <hr>
 
+<br>
+![DSC_0332_FrauMaurer_2_kl.jpg]({{site.baseurl}}/assets/images/DSC_0332_FrauMaurer_2_kl.jpg)
+<br>
+<blockquote>
+  <span>Der Weg ist Frage der Perspektive.</span>
+</blockquote>
+<br>
+![DSC_0328_FrauMaurer_1_kl.jpg]({{site.baseurl}}/assets/images/DSC_0328_FrauMaurer_1_kl.jpg)
+</div>
+<hr>
+
 ## Angebot
 
 ### Klinische Psychologie
