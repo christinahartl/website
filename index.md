@@ -43,11 +43,15 @@ published: true
   <a href="tel:00436644069465">+43-664-4069465</a> <a href="mailto:christina@hartl-hoerker.at">christina@hartl-hoerker.at</a>
 </div>
 <hr>
-
+> We loved with a love that was more than love
+ <span>Der Weg ... </span>
 ![DSC_0332_FrauMaurer_2_kl_.jpg]({{site.baseurl}}/assets/images/DSC_0332_FrauMaurer_2_kl_.jpg)
  <br>
+> We loved with a love that was more than love
+ <span>... ist Frage der Perspektive. </span>
 ![DSC_0328_FrauMaurer_1_kl_.jpg]({{site.baseurl}}/assets/images/DSC_0328_FrauMaurer_1_kl_.jpg)
 <hr>
+
 ## Angebot
 
 ### Klinische Psychologie
