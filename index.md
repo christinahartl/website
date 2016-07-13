@@ -43,8 +43,7 @@ published: true
   <a href="tel:00436644069465">+43-664-4069465</a> <a href="mailto:christina@hartl-hoerker.at">christina@hartl-hoerker.at</a>
 </div>
 <hr>
-<blockquote>
- <span>Der Weg...</span>
+
 ![DSC_0332_FrauMaurer_2_kl_.jpg]({{site.baseurl}}/assets/images/DSC_0332_FrauMaurer_2_kl_.jpg)
  <br>
 
