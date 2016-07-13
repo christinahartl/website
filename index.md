@@ -55,8 +55,8 @@ published: true
 </blockquote>
 <br>
 ![DSC_0328_FrauMaurer_1_kl_.jpg]({{site.baseurl}}/assets/images/DSC_0328_FrauMaurer_1_kl_.jpg)
+<br>
 <hr>
-
 
 ## Angebot
 
