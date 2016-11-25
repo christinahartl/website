@@ -44,6 +44,9 @@ published: true
 </div>
 <hr>
 
+<blockquote>
+  <span>Der Weg...</span>
+</blockquote>
 ![DSC_0332_FrauMaurer_2_kl_.jpg]({{site.baseurl}}/assets/images/DSC_0332_FrauMaurer_2_kl_.jpg)
  <br>
 
