@@ -49,7 +49,9 @@ published: true
 </blockquote>
 ![DSC_0332_FrauMaurer_2_kl_.jpg]({{site.baseurl}}/assets/images/DSC_0332_FrauMaurer_2_kl_.jpg)
  <br>
-
+<blockquote>
+  <span>... ist Frage der Perspektive.</span>
+</blockquote>
 ![DSC_0328_FrauMaurer_1_kl_.jpg]({{site.baseurl}}/assets/images/DSC_0328_FrauMaurer_1_kl_.jpg)
 <hr>
 
