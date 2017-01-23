@@ -13,6 +13,7 @@
   font-style: italic;
   margin: 0 15px 0 -60px;
   line-height: 1em;
+  display: none;
 
   &:hover,
   &:active,
@@ -26,9 +27,8 @@
     content: "&";
   }
 
-  @media (min-width: $screen-xxs-min) {
-    margin-right: 30px;
-    font-size: 110px;
+  @media (min-width: $screen-xs-min) {
+    display: block;
   }
 
   @media (min-width: $screen-ssm-min) {
@@ -37,6 +37,7 @@
 
   @media (min-width: $screen-sm-min) {
     margin-left: 0;
+    margin-right: 40px;
   }
 }
 

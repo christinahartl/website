@@ -37,9 +37,17 @@ html {
 }
 
 .header {
-  height: $header-height;
-  // We need to define the height to be able to position the menu accordingly.
   overflow: hidden; // To cut off the ampersand and not mess with the main content.
+
+  @media (min-width: $screen-xs-min) {
+    // We need to define the height to be able to position the menu accordingly.
+    height: $header-height;
+  }
+
+  @media (min-width: $screen-ssm-min) {
+    // We need to define the height to be able to position the menu accordingly.
+    height: $header-height * 1.32;
+  }
 }
 
 .content {

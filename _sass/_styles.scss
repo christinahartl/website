@@ -17,20 +17,15 @@ h1 {
   line-height: 1.2em;
   margin: .2em 0 0 0;
   color: $white;
-  font-size: 28px;
+  font-size: 26px;
 
   @media (min-width: $screen-ssm-min) {
     margin-top: .8em;
-    font-size: 36px;
+    font-size: 30px;
 
     br {
       display: none;
     }
-  }
-
-  @media (min-width: $screen-sm-min) {
-    margin-top: .6em;
-    font-size: 40px;
   }
 }
 
@@ -63,7 +58,7 @@ p {
   display: block;
   line-height: 1em;
   color: rgba(255, 255, 255, 0.7);
-  margin-bottom: 5px;
+  margin: 0 0 0.7em 0;
 }
 
 blockquote {
@@ -161,33 +156,6 @@ sup {
 .signature {
   margin: .5em auto 1em auto;
 }
-
-/*
-
-.portrait {
-  display: block;
-  margin: 1em auto;
-
-  @media (min-width: $screen-ssm-min) {
-    float: left;
-    //margin-left: 2em;
-  }
-
-  @media (min-width: $screen-sm-min) {
-    margin-left: 0;
-  }
-}
-
-.signature {
-  margin: .5em auto 1em auto;
-  display: block;
-
-  @media (min-width: $screen-ssm-min) {
-    display: inline;
-    margin-top: 1em;
-  }
-}
-*/
 
 .ampersand {
   font-style: italic;
