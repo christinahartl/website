@@ -260,7 +260,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
 <div class="media">
   <h3 class="media-heading">
     <a href="http://www.weindoktor.at/" target="_blank">
-      Dr.<sup>in</sup> Julia Schachner und Dr.C.Patrick Reichel
+      Dr.C.Patrick Reichel
     </a>
   </h3>
   <h4 class="media-subheading">Gruppenpraxis für Allgemeinmedizin in Sierndorf</h4>
