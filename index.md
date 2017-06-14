@@ -253,9 +253,9 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
     </p>
     <p>
       Sie ist eine Bereicherung für IBG und speziell für unser Team der Arbeitspsychologie. Ich bin sehr froh sie im Team zu haben.
-   	 <p>
+   	  </p>
   </div>
- </div>
+</div>
 
 <div class="media">
   <h3 class="media-heading">
@@ -266,6 +266,6 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   <h4 class="media-subheading">Gruppenpraxis für Allgemeinmedizin in Sierndorf</h4>
   
   <div class="media-body">
-    <p>Christina kenne ich von meiner hypnosystemischen Laufbahn - ich schätz diesen Zugang sehr und weise gerne zu, denn bei Christina weiß ich meine Patienten und Patienntinnen in den besten Händen.  
-  </div>
+    <p>Christina kenne ich von meiner hypnosystemischen Laufbahn - ich schätze diesen Zugang sehr und weise gerne zu, denn bei Christina weiß ich meine Patientinnen und Patienten in den besten Händen.  
+   </div>
 </div>
