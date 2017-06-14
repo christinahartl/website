@@ -267,5 +267,6 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   
   <div class="media-body">
     <p>Christina kenne ich von meiner hypnosystemischen Laufbahn - ich schätze diesen Zugang sehr und weise gerne zu, denn bei Christina weiß ich meine Patientinnen und Patienten in den besten Händen.  
-   </div>
+    </p>
+  </div>
 </div>
