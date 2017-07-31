@@ -265,8 +265,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   </h3>
   <h4 class="media-subheading">Gruppenpraxis für Allgemeinmedizin in Sierndorf</h4>
 <img class="media-object" src="/assets/images/Patrick_1.jpg" alt="Dr.Patrick C. Reichel">
-   </a>
-  </div> 
+ 
   
   <div class="media-body">
     <p>
