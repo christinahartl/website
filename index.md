@@ -11,7 +11,7 @@ published: true
 
 <div class="psychologist">
   <div class="christina">
-    <img src="![Christina Hartl-Hörker_001 _ 2017 © fotobuttinger.jpg]({{site.baseurl}}/assets/images/Christina%20Hartl-H%C3%B6rker_001%20_%202017%20%C2%A9%20fotobuttinger.jpg)" alt="Christina Hartl Hörker" class="portrait"><br>
+    <img src="![Christina Hartl-Hörker_001 _ 2017 © fotobuttinger.jpg]({{site.baseurl}}/assets/images/Christina%20Hartl-H%C3%B6rker_001%20_%202017%20%C2%A9%20fotobuttinger.jpg)" ><br>
     <img class="signature" src="/assets/images/signature.jpg" alt="Christina Hartl Hörker">
   </div>
 
