@@ -11,7 +11,7 @@ published: true
 
 <div class="psychologist">
   <div class="christina">
-	![001_1.jpg]({{site.baseurl}}/assets/images/001_1.jpg)
+	<img src="/assets/images/christina-hartl-hoerker.jpg" alt="Christina Hartl Hörker" class="portrait"><br>
     <img class="signature" src="/assets/images/signature.jpg" alt="Christina Hartl Hörker">
   </div>
 
