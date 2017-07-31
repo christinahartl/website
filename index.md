@@ -264,9 +264,13 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
     </a>
   </h3>
   <h4 class="media-subheading">Gruppenpraxis für Allgemeinmedizin in Sierndorf</h4>
+<img class="media-object" src="/assets/images/Patrick_1.jpg" alt="Dr.Patrick C. Reichel">
+    </a>
+  </div>
   
   <div class="media-body">
-    <p>Christina kenne ich von meiner hypnosystemischen Laufbahn - ich schätze diesen Zugang sehr und weise gerne zu, denn bei Christina weiß ich meine Patientinnen und Patienten in den besten Händen.  
+    <p>
+      Christina kenne ich von meiner hypnosystemischen Laufbahn - ich schätze diesen Zugang sehr und weise gerne zu, denn bei Christina weiß ich meine Patientinnen und Patienten in den besten Händen.  
     </p>
   </div>
 </div>
