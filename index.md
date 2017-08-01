@@ -44,16 +44,6 @@ published: true
 </div>
 <hr>
 
-<blockquote>
-  <span>Der Weg...</span>
-</blockquote>
-![DSC_0332_FrauMaurer_2_kl_.jpg]({{site.baseurl}}/assets/images/DSC_0332_FrauMaurer_2_kl_.jpg)
- <br>
-<blockquote>
-  <span>... ist Frage der Perspektive.</span>
-</blockquote>
-![DSC_0328_FrauMaurer_1_kl_.jpg]({{site.baseurl}}/assets/images/DSC_0328_FrauMaurer_1_kl_.jpg)
-<hr>
 
 ## Angebot
 
@@ -96,6 +86,17 @@ Die <a href="https://de.wikipedia.org/wiki/Hypnotherapie#Hypnotherapie_nach_Eric
 Beispielsweise können wir uns manchmal nicht genau daran erinnern, wie wir von einem Ort zum anderen gekommen sind. Das <strong>Unbewusste</strong> wird nach Erickson als <strong>Ort der Kompetenzen</strong> und <strong>Ressourcen</strong> definiert.
 
 In meiner Arbeit mit <strong>Hypnose</strong> unterscheide ich zwischen <strong>Äußerer Welt</strong> wie zum Beispiel der Arbeitsplatzsituation, die oft wenig beeinflussbar ist. Was wir aber tun können, ist Einfluss auf unsere <strong>innere Welt</strong> zu nehmen.   
+
+<blockquote>
+  <span>Der Weg...</span>
+</blockquote>
+![DSC_0332_FrauMaurer_2_kl_.jpg]({{site.baseurl}}/assets/images/DSC_0332_FrauMaurer_2_kl_.jpg)
+ <br>
+<blockquote>
+  <span>... ist Frage der Perspektive.</span>
+</blockquote>
+![DSC_0328_FrauMaurer_1_kl_.jpg]({{site.baseurl}}/assets/images/DSC_0328_FrauMaurer_1_kl_.jpg)
+<hr>
 
 ### Entspannungstraining
 
