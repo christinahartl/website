@@ -49,7 +49,7 @@ published: true
 
 ### Klinische Psychologie
 
-Als Klinische Psychologin begleite ich <strong>Menschen</strong> in <strong>herausfordernden Lebenssituationen</strong>. Beispielsweise bei Ängsten, bei Depression oder bei somatischen Erkrankungen kann eine Unterstützung als hilfreich erlebt werden.  
+Als Klinische Psychologin begleite ich <strong>Menschen</strong> in <strong>herausfordernden Lebenssituationen</strong>. Beispielsweise bei <strong>Ängsten, bei <strong>Zwängen, bei <strong>Depression oder bei <strong>somatischen Erkrankungen kann eine Unterstützung als hilfreich erlebt werden.  
 
 
 <div class="work-type">
