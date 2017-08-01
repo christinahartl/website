@@ -49,13 +49,7 @@ published: true
 
 ### Klinische Psychologie
 
-Als Klinische Psychologin unterstütze ich <strong>Menschen</strong> mit <strong>psychischen Störungen</strong> sowie mit somatischen Erkrankungen, bei denen psychische Aspekte eine Rolle spielen.  Auch psychische <strong>Extremsituationen</strong> und Krisen werden im Rahmen der Klinischen Psychologie behandelt.
-
-* Angst und stressbedingte Störungen
-* Depressionen und Manie
-* Psychisch-körperliche Probleme - Psychosomatik
-* Essstörungen
-* Probleme bei bestimmten Lebensabschnitten/Lebenskrisen
+Als Klinische Psychologin begleite ich <strong>Menschen</strong> in <strong>herausfordernden Lebenssituationen</strong>. Beispielsweise bei Ängsten, bei Depression oder bei somatischen Erkrankungen kann eine Unterstützung als hilfreich erlebt werden.  
 
 
 <div class="work-type">
@@ -295,4 +289,3 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
     </p>
   </div>
 </div>
-
