@@ -54,7 +54,7 @@ Als Klinische Psychologin begleite ich <strong>Menschen</strong> in <strong>hera
 
 <div class="work-type">
   <h3 id="gesundheitspsychologie">Gesundheitspsychologie</h3>
-  <img src="/assets/images/baum1.jpg" alt="">
+  <img src="/assets/images/Baum1.jpg" alt=">
   <p>
     Als  Gesundheitspsychologin befasse ich mich mit Aufgaben, die mit der Förderung und Erhaltung von <strong>körperlicher</strong> und <strong>psychischer Gesundheit</strong> zusammenhängen, zum Beispiel den <strong>Umgang mit Belastungen</strong>, oder ein <strong>gesunder Lebensstil</strong>.
   </p>
