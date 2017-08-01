@@ -266,7 +266,6 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   <h4 class="media-subheading">Klinische und Gesundheitspsychologin</h4>
   <div class="media-left">
       <img class="media-object" src="/assets/images/Hanna1.jpg" alt="Mag. Hanna Frydrych-Kernbauer">
-    </p>
   </div>
 </div>
 
@@ -278,7 +277,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   </h3>
   <h4 class="media-subheading">Gruppenpraxis für Allgemeinmedizin in Sierndorf</h4>
   <div class="media-left">
-		<img class="media-object" src="/assets/images/Patrick_1.jpg" alt="Dr.Patrick C. Reichel">
+		<img class="media-object" src="/assets/images/Patrick2.jpg" alt="Dr.Patrick C. Reichel">
  
   
   <div class="media-body">
@@ -287,4 +286,5 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
     </p>
   </div>
 </div>
+
 
