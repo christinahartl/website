@@ -232,10 +232,8 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
 		<img class="media-object" src="/assets/images/Hoffmann.jpg" alt="Dr.Johann Hoffmann"> 
   </div>
   <div class="media-body">
-    <p>
     Frau Mag.Hartl-Hörker findet sehr rasch guten Kontakt zu Patienten. Sie ist sehr einfühlsam in schwierigen Lebenssituationen.
   </div>
-</div>
 
 <div class="media">
   <h3 class="media-heading">
