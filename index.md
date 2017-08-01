@@ -233,7 +233,8 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   </div>
   <div class="media-body">
     Frau Mag.Hartl-Hörker findet sehr rasch guten Kontakt zu Patienten. Sie ist sehr einfühlsam in schwierigen Lebenssituationen.</p>
-  </div>
+   </div>
+</div>
 
 
 <div class="media">
