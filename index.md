@@ -266,8 +266,9 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   <h4 class="media-subheading">Klinische und Gesundheitspsychologin</h4>
   <div class="media-left">
       <img class="media-object" src="/assets/images/Hanna1.jpg" alt="Mag. Hanna Frydrych-Kernbauer">
-    </a>
+    </p>
   </div>
+</div>
 
 <div class="media">
   <h3 class="media-heading">
