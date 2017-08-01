@@ -259,12 +259,25 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
 
 <div class="media">
   <h3 class="media-heading">
+    <a href="http://www.frydrych.at/home/" target="_blank">
+      Mag<sup>a</sup> Hanna Frydrych-Kernbauer
+    </a>
+  </h3>
+  <h4 class="media-subheading">Klinische und Gesundheitspsychologin</h4>
+  <div class="media-left">
+      <img class="media-object" src="/assets/images/Hanna1.jpg" alt="Mag. Hanna Frydrych-Kernbauer">
+    </a>
+  </div>
+
+<div class="media">
+  <h3 class="media-heading">
     <a href="http://www.weindoktor.at/" target="_blank">
       Dr.C.Patrick Reichel
     </a>
   </h3>
   <h4 class="media-subheading">Gruppenpraxis für Allgemeinmedizin in Sierndorf</h4>
-<img class="media-object" src="/assets/images/Patrick_1.jpg" alt="Dr.Patrick C. Reichel">
+  <div class="media-left">
+		<img class="media-object" src="/assets/images/Patrick_1.jpg" alt="Dr.Patrick C. Reichel">
  
   
   <div class="media-body">
