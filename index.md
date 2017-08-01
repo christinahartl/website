@@ -11,7 +11,7 @@ published: true
 
 <div class="psychologist">
   <div class="christina">
-	<img src="/assets/images/Brücke2.jpg" alt="Christina Hartl Hörker" class="portrait"><br>
+	<img src="/assets/images/Bruecke3.jpg" alt="Christina Hartl Hörker" class="portrait"><br>
     <img class="signature" src="/assets/images/signature.jpg" alt="Christina Hartl Hörker">
   </div>
 
