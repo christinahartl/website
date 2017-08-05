@@ -281,7 +281,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
      <p> 
 	Ihr Beruf ist ihre Berufung.
 	</p>
-  </div>
+
 </div>
 
 <div class="media">
