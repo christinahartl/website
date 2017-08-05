@@ -280,8 +280,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
 	  Ihre Offenheit, Herzlichkeit, frohes Gemüt, Humor, Feinfühligkeit, wertschätzender 		respektvoller 	Umgang, gelebte Herzens- und Augenhöhe sowie die gleichzeitige Bescheidenheit      ermöglichen schöne, bereichernde und heilsame Begegnungen. Christina ist sowohl für ihre 		 KlientInnen als auch für ihre KollegInnen und FreundInnen ein sehr wertvoller Mensch. 
      <p> 
 	Ihr Beruf ist ihre Berufung.
-     < </p>
-  </div>
+     
 </div>
 
 <div class="media">
