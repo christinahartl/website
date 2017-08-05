@@ -271,15 +271,15 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   </div>
 </div>
 
- <div class="media-body">
+<div class="media-body">
     <p>
-	Christina Hartl-Hörker ist eine sehr besondere Kollegin. Sie legt großen Wert auf die 		Qualität Ihrer Arbeit und Ihrer fachlichen Kompetenz. Deshalb arbeitet Sie sehr engagiert, 		reflektiert und genau und ist stets dabei sich weiterzuentwickeln und weiterzubilden. 
-     <p>
-Ich bewundere besonders ihre Persönlichkeit und die Art, wie sie mit den Menschen umgeht.
+	  Christina Hartl-Hörker ist eine sehr besondere Kollegin. Sie legt großen Wert auf die 		Qualität Ihrer Arbeit und Ihrer fachlichen Kompetenz. Deshalb arbeitet Sie sehr engagiert, 		reflektiert und genau und ist stets dabei sich weiterzuentwickeln und weiterzubilden. 
+  	<p>
+	  Ich bewundere besonders ihre Persönlichkeit und die Art, wie sie mit den Menschen umgeht.
   	<p> 
-Ihre Offenheit, Herzlichkeit, frohes Gemüt, Humor, Feinfühligkeit, wertschätzender 			 respektvoller 	Umgang, gelebte Herzens- und Augenhöhe sowie die gleichzeitige Bescheidenheit      	ermöglichen schöne, bereichernde und heilsame Begegnungen. Christina ist sowohl für ihre 		 KlientInnen als auch für ihre KollegInnen und FreundInnen ein sehr wertvoller Mensch. 
+	  Ihre Offenheit, Herzlichkeit, frohes Gemüt, Humor, Feinfühligkeit, wertschätzender 		respektvoller 	Umgang, gelebte Herzens- und Augenhöhe sowie die gleichzeitige Bescheidenheit      ermöglichen schöne, bereichernde und heilsame Begegnungen. Christina ist sowohl für ihre 		 KlientInnen als auch für ihre KollegInnen und FreundInnen ein sehr wertvoller Mensch. 
      <p> 
-Ihr Beruf ist ihre Berufung.
+	Ihr Beruf ist ihre Berufung.
      < </p>
   </div>
 </div>
