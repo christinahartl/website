@@ -273,7 +273,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
 
 <div class="media-body">
     <p>
-	  Christina Hartl-Hörker ist eine sehr besondere Kollegin. Sie legt großen Wert auf die 	Qualität Ihrer Arbeit und Ihrer fachlichen Kompetenz. Deshalb arbeitet Sie sehr engagiert, 		reflektiert und genau und ist stets dabei sich weiterzuentwickeln und weiterzubilden. 
+	  Christina Hartl-Hörker ist eine sehr besondere Kollegin. Sie legt großen Wert auf die 	Qualität ihrer Arbeit und ihrer fachlichen Kompetenz. Deshalb arbeitet sie sehr engagiert, 		reflektiert und genau und ist stets dabei sich weiterzuentwickeln und weiterzubilden. 
   	<p>
 	  Ich bewundere besonders ihre Persönlichkeit und die Art, wie sie mit den Menschen umgeht.
   	<p> 
