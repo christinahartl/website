@@ -273,15 +273,20 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
 
 <div class="media-body">
     <p>
-	  Christina Hartl-Hörker ist eine sehr besondere Kollegin. Sie legt großen Wert auf die 	Qualität ihrer Arbeit und ihrer fachlichen Kompetenz. Deshalb arbeitet sie sehr engagiert, 		reflektiert und genau und ist stets dabei sich weiterzuentwickeln und weiterzubilden. 
-  	<p>
-	  Ich bewundere besonders ihre Persönlichkeit und die Art, wie sie mit den Menschen umgeht.
-  	<p> 
-	  Ihre Offenheit, Herzlichkeit, frohes Gemüt, Humor, Feinfühligkeit, wertschätzender 		respektvoller 	Umgang, gelebte Herzens- und Augenhöhe sowie die gleichzeitige Bescheidenheit      ermöglichen schöne, bereichernde und heilsame Begegnungen. Christina ist sowohl für ihre 		 KlientInnen als auch für ihre KollegInnen und FreundInnen ein sehr wertvoller Mensch. 
-     <p> 
-	Ihr Beruf ist ihre Berufung.
+      Christina Hartl-Hörker ist eine sehr besondere Kollegin. Sie legt großen Wert auf die 	Qualität ihrer Arbeit und ihrer fachlichen Kompetenz. Deshalb arbeitet sie sehr engagiert, 		reflektiert und genau und ist stets dabei sich weiterzuentwickeln und weiterzubilden.
+    </p>
+    <p>
+      Ich bewundere besonders ihre Persönlichkeit und die Art, wie sie mit den Menschen umgeht.
+  	</p>
+    <p>	
+      Ihre Offenheit, Herzlichkeit, frohes Gemüt, Humor, Feinfühligkeit, wertschätzender 		respektvoller 	Umgang, gelebte Herzens- und Augenhöhe sowie die gleichzeitige Bescheidenheit      ermöglichen schöne, bereichernde und heilsame Begegnungen. Christina ist sowohl für ihre 		 KlientInnen als auch für ihre KollegInnen und FreundInnen ein sehr wertvoller Mensch. 
+    </p>
+    <p>
+      Ihr Beruf ist ihre Berufung.
+    </p>
+  </div>
+</div>
 	
-
 <div class="media">
   <h3 class="media-heading">
     <a href="http://www.weindoktor.at/" target="_blank">
