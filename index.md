@@ -269,7 +269,7 @@ Christina Hartl-Hörker: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
   <div class="media-left">
       <img class="media-object" src="/assets/images/Hanna1.jpg" alt="Mag. Hanna Frydrych-Kernbauer">
   </div>
-</div>
+
 
 <div class="media-body">
     <p>
