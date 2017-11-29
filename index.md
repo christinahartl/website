@@ -63,7 +63,7 @@ Als Klinische Psychologin begleite ich <strong>Menschen</strong> in <strong>hera
   <p>
     Eine psychologische Beratung und Behandlung ist <strong>ziel- und lösungsorientiert</strong>, stärkt Ihre individuellen Fähig- und Fertigkeiten, erweitert Ihren <strong>Handlungsspielraum</strong> und Ihre Ressourcen und Kraftquellen.
   </p>
-</div>
+
 
 
 ### Arbeitspsychologie
