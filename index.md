@@ -110,6 +110,7 @@ Wissenschaftliche Untersuchungen zeigen, dass unsere <strong>Gedanken</strong> u
 <blockquote>
   <span>Du bist einzigartig.</span>
 </blockquote>
+
 ![Blume_klein.jpg]({{site.baseurl}}/assets/images/Blume_klein.jpg)
 
 
