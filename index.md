@@ -54,8 +54,10 @@ Als Klinische Psychologin begleite ich <strong>Menschen</strong> in <strong>hera
 
 ### Gesundheitspsychologie
 
-![Baum_klein_.jpg]({{site.baseurl}}/assets/images/Baum_klein_.jpg) Als  Gesundheitspsychologin befasse ich mich mit Aufgaben, die mit der Förderung und Erhaltung von <strong>körperlicher</strong> und <strong>psychischer Gesundheit</strong> zusammenhängen, zum Beispiel den <strong>Umgang mit Belastungen</strong>, oder ein <strong>gesunder Lebensstil</strong>.
- 
+![Baum_klein_.jpg]({{site.baseurl}}/assets/images/Baum_klein_.jpg)
+<p>
+	Als  Gesundheitspsychologin befasse ich mich mit Aufgaben, die mit der Förderung und Erhaltung von <strong>körperlicher</strong> und <strong>psychischer Gesundheit</strong> zusammenhängen, zum Beispiel den <strong>Umgang mit Belastungen</strong>, oder ein <strong>gesunder Lebensstil</strong>.
+  </p>
 
   <p>
     Eine psychologische Beratung und Behandlung ist <strong>ziel- und lösungsorientiert</strong>, stärkt Ihre individuellen Fähig- und Fertigkeiten, erweitert Ihren <strong>Handlungsspielraum</strong> und Ihre Ressourcen und Kraftquellen.
