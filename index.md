@@ -52,8 +52,8 @@ published: true
 Als Klinische Psychologin begleite ich <strong>Menschen</strong> in <strong>herausfordernden Lebenssituationen</strong>. Beispielsweise bei <strong>Ängsten<strong>, bei <strong>Zwängen<strong>, bei <strong>Depression<strong> oder bei <strong>somatischen Erkrankungen<strong> kann eine Unterstützung als hilfreich erlebt werden.  
 
 
-<div class="work-type">
-  <h3 id="gesundheitspsychologie">Gesundheitspsychologie</h3>
+### Gesundheitspsychologie
+
   ![Baum_klein_.jpg]({{site.baseurl}}/assets/images/Baum_klein_.jpg)
 
   <p>
