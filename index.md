@@ -135,7 +135,8 @@ Die Wirksamkeit der Methoden ist wissenschaftlich untersucht.
   <li><span>a</span>ufmerksam</li>
 </ul>
 
-![Natur1.jpg]({{site.baseurl}}/assets/images/Natur1.jpg)
+![Gras.jpg]({{site.baseurl}}/assets/images/Gras.jpg)
+
 
 
 Nach dem Studium der Psychologie habe ich mich als Klinische und Gesundheitspsychologin ausbilden lassen. Meine ersten beruflichen Erfahrungen sammelte ich im <a href="http://www.fem.at" target="_blank">Frauengesundheitszentrum F.E.M</a>, dem <a href="http://www.pszw.at" target="_blank">psychosomatischen Zentrum</a> in Eggenburg und der Firma <a href="http://ibg.co.at" target="_blank">IBG</a> (Innovatives berufliches Gesundheitsmanagement).
