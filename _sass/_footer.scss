@@ -3,6 +3,11 @@
   padding: 2em 0;
   font-size: $font-size-small;
   color: $footer-color;
+  margin-top: 1em;
+
+  @media (min-width: $screen-smm-min) {
+    margin-top: 2em;
+  }
 
   a {
     color: $footer-color;
