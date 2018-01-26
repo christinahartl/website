@@ -114,6 +114,7 @@ body > .navigation {
 
     top: $sidebar-top-percent;
     padding-right: $sidebar-padding;
+    bottom: 25%;
   }
 
   @media (min-width: $screen-smm-min) {

@@ -40,8 +40,32 @@ published: true
 </div>
 
 <div class="header-contact text-center"> 
-  <a href="tel:00436644069465">+43-664-4069465</a> <a href="mailto:christina@hartl-hoerker.at">christina@hartl-hoerker.at</a>
+  <a href="tel:00436644069465">+43-664-4069465</a><br>
+  <a href="mailto:christina@hartl-hoerker.at">christina@hartl-hoerker.at</a>
 </div>
+
+<div class="addresses">
+  <div class="addresses-left">
+    <a class="addresses-link" href="https://www.google.at/maps/place/Kirchenpl.+1,+2020+Gemeinde+Hollabrunn/@48.5618778,16.079025,17z/data=!3m1!4b1!4m5!3m4!1s0x476d42a7d27462fd:0x6e95a4b95d3aa795!8m2!3d48.5618743!4d16.0812137">
+      <img src="https://maps.googleapis.com/maps/api/staticmap?autoscale=1&size=300x180&maptype=roadmap&key=AIzaSyBuwlHjwPpjfW3LGe19DvVbmy77OjAZvG4&format=png&visual_refresh=true&markers=size:mid|color:0xff0000|label:Christina+Hartl-Hörker|Kirchenplatz+1,+2020+Hollabrunn">
+      <label class="addresses-label">
+        Kirchenplatz 1/1/4 (Seminarvilla)<br>
+        2020 Hollabrunn
+      </label>
+    </a>
+  </div>
+  <div class="addresses-right">
+    <a class="addresses-link" href="https://www.google.at/maps/place/Wiedner+Hauptstra%C3%9Fe+90,+1050+Wien/@48.1872855,16.361528,17z/data=!3m1!4b1!4m5!3m4!1s0x476da82b135d742f:0x8518949577f6c46!8m2!3d48.1872819!4d16.3637167">
+      <img src="https://maps.googleapis.com/maps/api/staticmap?autoscale=1&size=300x180&maptype=roadmap&key=AIzaSyBuwlHjwPpjfW3LGe19DvVbmy77OjAZvG4&format=png&visual_refresh=true&markers=size:mid|color:0xff0000|label:1|Wiedner+HauptStra%C3%9Fe+90&zoom=16">
+      <label class="addresses-label">
+        Wiedner Hauptstraße 90/9<br>
+        Hypno-Synstitut, rechte Stiege<br>
+        1050 Wien
+      </label>
+    </a>
+  </div>
+</div>
+
 <hr>
 
 
