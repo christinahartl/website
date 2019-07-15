@@ -58,8 +58,6 @@ published: true
         Trappelgasse 8/13<br>
         Hypno-Synstitut<br>
         1040 Wien
-      </label>
-    </a>
   </div>
 </div>
 
