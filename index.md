@@ -55,12 +55,12 @@ published: true
     </a>
   </div>
   <div class="addresses-right">
-    <a class="addresses-link" href="https://www.google.at/maps/place/Wiedner+Hauptstra%C3%9Fe+90,+1050+Wien/@48.1872855,16.361528,17z/data=!3m1!4b1!4m5!3m4!1s0x476da82b135d742f:0x8518949577f6c46!8m2!3d48.1872819!4d16.3637167">
-      <img src="https://maps.googleapis.com/maps/api/staticmap?autoscale=1&size=300x180&maptype=roadmap&key=AIzaSyBuwlHjwPpjfW3LGe19DvVbmy77OjAZvG4&format=png&visual_refresh=true&markers=size:mid|color:0xff0000|label:1|Wiedner+HauptStra%C3%9Fe+90&zoom=16">
+    <a class="addresses-link" href="https://www.google.at/maps/place/Trappelgasse+8,+1040+Wien/@48.188479,16.3637799,17z/data=!3m1!4b1!4m5!3m4!1s0x476da82ada01d64f:0xb8cee7d8f556232a!8m2!3d48.1884754!4d16.3659686>
+      <img src="https://maps.googleapis.com/maps/api/staticmap?autoscale=1&size=300x180&maptype=roadmap&key=AIzaSyBuwlHjwPpjfW3LGe19DvVbmy77OjAZvG4&format=png&visual_refresh=true&markers=size:mid|color:0xff0000|label:1|Trappelgasse+8zoom=16">
       <label class="addresses-label">
-        Wiedner Hauptstraße 90/9<br>
-        Hypno-Synstitut, rechte Stiege<br>
-        1050 Wien
+        Trappelgasse 8/13<br>
+        Hypno-Synstitut<br>
+        1040 Wien
       </label>
     </a>
   </div>
