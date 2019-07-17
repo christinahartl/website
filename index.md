@@ -55,7 +55,7 @@ published: true
     </a>
   </div>
   <div class="addresses-right">
-        Trappelgasse 8/13<br>
+        Trappelgasse 8/13 (3.Stock)<br>
         Hypno-Synstitut<br>
         1040 Wien
   </div>
