@@ -175,7 +175,7 @@ Mittlerweile bin ich verheiratet und habe 2 Kinder.
 ## Kosten 
 
 Ein <strong>Erstgespräch</strong> kostet <strong>30 Euro</strong> für die Dauer von 30min.   
-Weitere Gespräche variieren je nach Angebot zwischen 70 und 80 Euro für die Dauer von 50min. 
+Weitere Gespräche variieren je nach Angebot zwischen 70 und 90 Euro für die Dauer von 50min. 
  
 
 Im Normalfall übernehmen die Krankenkassen leider noch keine Therapiekosten, fragen Sie aber zur Sicherheit nach.
