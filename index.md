@@ -55,12 +55,6 @@ published: true
     </a>
   </div>
   <div class="addresses-right">
-      <img src="https://maps.googleapis.com/maps/api/staticmap?autoscale=1&size=300x180&maptype=roadmap&key=AIzaSyBuwlHjwPpjfW3LGe19DvVbmy77OjAZvG4&format=png&visual_refresh=true&markers=size:mid|color:0xff0000|label:Christina+Hartl-Hörker|Trappelgasse+8,+1040+Wien">
-      <label class="addresses-label">
-        Trappelgasse 8/13 (3.Stock)<br>
-        Hypno-Synstitut<br>
-        1040 Wien
-      </label>
   </div>
 </div>
 
@@ -71,7 +65,7 @@ published: true
 
 ### Klinische Psychologie
 
-Als Klinische Psychologin begleite ich <strong>Menschen</strong> in <strong>herausfordernden Lebenssituationen</strong>. Beispielsweise bei <strong>Ängsten<strong>, bei <strong>Zwängen<strong>, bei <strong>Depression<strong> oder bei <strong>somatischen Erkrankungen<strong> kann eine Unterstützung als hilfreich erlebt werden.  
+Als Klinische Psychologin begleite ich <strong>Menschen</strong> in <strong>herausfordernden Lebenssituationen</strong>. Beispielsweise bei <strong>Ängsten</strong>, bei <strong>Zwängen</strong>, bei <strong>Depression</strong> oder bei <strong>somatischen Erkrankungen</strong> kann eine Unterstützung als hilfreich erlebt werden.  
 
 
 ### Gesundheitspsychologie
